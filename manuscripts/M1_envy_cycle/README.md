@@ -1,4 +1,4 @@
-# Manuscript M1 — Envy Cycle
+# Regulatory Failure — A Unified Framework for Envy, Psychosis, and Collapse
 
 This manuscript introduces the core pathological envy cycle and its structural dynamics.
 
