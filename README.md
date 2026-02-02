@@ -9,3 +9,7 @@ Non-diagnostic. Non-prescriptive. Public, non-commercial.
 This work is licensed under the Creative Commons
 Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
+## Contact
+
+pathological.envy@protonmail.com
+
