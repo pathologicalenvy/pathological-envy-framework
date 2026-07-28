@@ -36,9 +36,9 @@ A system may possess ample energy and capacity for action yet be unable to proce
 Once predictive collapse occurs within a fixed context, restoration of regulation through further action in that context is not possible. Additional escalation would not alter ERP and therefore cannot restore regulation.
 
 This produces a forced transition. The system must either:
-•	exit the interaction entirely,
-•	stabilize through alternative means,
-•	or enter a failure state.
+-	exit the interaction entirely,
+-	stabilize through alternative means,
+-	or enter a failure state.
 
 10.7 Exit Requirement
 
