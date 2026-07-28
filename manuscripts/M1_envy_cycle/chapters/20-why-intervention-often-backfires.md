@@ -54,10 +54,10 @@ Blaming the individual for intervention failure ignores the structural constrain
 20.9 Implications for Practice
 
 Effective intervention requires assessment of:
-•	Current regulatory state
-•	Degree of exposure
-•	Availability of stabilization pathways
-•	Remaining solvability
+-	Current regulatory state
+-	Degree of exposure
+-	Availability of stabilization pathways
+-	Remaining solvability
 
 Interventions that reduce exposure, restore predictability, or reintroduce containment are more likely to succeed than those that demand engagement, explanation, or change.
 
