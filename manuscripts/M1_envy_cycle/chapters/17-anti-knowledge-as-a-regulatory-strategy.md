@@ -35,10 +35,10 @@ Certainty stabilizes more reliably than curiosity under conditions of regulatory
 17.6 Anti-Knowledge Across Stabilization Pathways
 
 Anti-knowledge is not limited to psychotic states. It operates across multiple stabilization pathways:
-•	In grievance, anti-knowledge preserves certainty by excluding nuance or revision.
-•	In idealization, anti-knowledge maintains reverence by suspending inquiry.
-•	In withdrawal, anti-knowledge limits engagement that could generate new exposure.
-•	In chronic psychosis, anti-knowledge protects delusional structures from destabilization.
+-	In grievance, anti-knowledge preserves certainty by excluding nuance or revision.
+-	In idealization, anti-knowledge maintains reverence by suspending inquiry.
+-	In withdrawal, anti-knowledge limits engagement that could generate new exposure.
+-	In chronic psychosis, anti-knowledge protects delusional structures from destabilization.
 
 Across these outcomes, anti-knowledge functions to maintain regulatory stability rather than to distort reality arbitrarily. The form anti-knowledge takes is constrained by the stabilization pathway in operation.
 
