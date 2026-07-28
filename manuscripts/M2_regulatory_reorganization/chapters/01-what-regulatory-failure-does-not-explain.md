@@ -13,9 +13,9 @@ Most psychological frameworks assume continuity. Personality traits persist. Cop
 Collapse violates these assumptions. In collapse, regulatory coherence fails. Justificatory systems disintegrate. Prior strategies no longer function. What follows is not adjustment but forced reorganization.
 
 Existing models tend to respond to this by:
-•	re-labeling post-collapse states as traits,
-•	moralizing outcomes as character,
-•	or fragmenting explanation across unrelated diagnoses.
+-	re-labeling post-collapse states as traits,
+-	moralizing outcomes as character,
+-	or fragmenting explanation across unrelated diagnoses.
 
 None of these approaches explain why collapse produces patterned divergence rather than randomness.
 
