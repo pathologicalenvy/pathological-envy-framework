@@ -53,9 +53,9 @@ This discontinuity does not imply that psychosis emerges without antecedents. It
 14.8 Implications for Understanding Psychosis
 
 Understanding psychosis as failure rather than escalation clarifies several otherwise puzzling features:
-•	Why psychosis does not respond predictably to increased confrontation or reassurance
-•	Why psychosis may emerge after prolonged periods of controlled escalation
-•	Why psychosis can coexist with moments of apparent calm or withdrawal
+-	Why psychosis does not respond predictably to increased confrontation or reassurance
+-	Why psychosis may emerge after prolonged periods of controlled escalation
+-	Why psychosis can coexist with moments of apparent calm or withdrawal
 
 These features are consistent with collapse of regulation rather than excess of affect.
 
