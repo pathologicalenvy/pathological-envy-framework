@@ -32,10 +32,10 @@ Different regulated variables shape phenomenology without altering the underlyin
 19.5 Explaining Heterogeneity of Psychosis
 
 Understanding psychosis as regulatory failure explains why psychotic presentations are heterogeneous. Differences in content, intensity, and duration reflect differences in:
-•	Which regulatory cycle failed
-•	Which variables were involved
-•	Which stabilization attempts were available
-•	Whether repair structures formed
+-	Which regulatory cycle failed
+-	Which variables were involved
+-	Which stabilization attempts were available
+-	Whether repair structures formed
 
 Heterogeneity is therefore expected rather than anomalous.
 
@@ -48,10 +48,10 @@ Acute psychosis reflects ongoing failure without repair. Chronic psychosis refle
 19.7 Advantages of the Regulatory Failure Model
 
 Framing psychosis as regulatory failure offers several advantages:
-•	It avoids moralization and blame
-•	It avoids reduction to symptom counts
-•	It explains sudden onset and variable course
-•	It integrates psychological, relational, and biological factors
+-	It avoids moralization and blame
+-	It avoids reduction to symptom counts
+-	It explains sudden onset and variable course
+-	It integrates psychological, relational, and biological factors
 
 Most importantly, it provides a process-level explanation rather than a descriptive taxonomy. These advantages are explanatory rather than predictive.
 
