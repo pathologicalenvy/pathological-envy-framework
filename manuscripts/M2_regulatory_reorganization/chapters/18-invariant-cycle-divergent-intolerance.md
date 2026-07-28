@@ -58,3 +58,36 @@ This is why borderline organization remains junctional. No single intolerance-co
 
 Mutual exclusion therefore applies at the level of dominant configuration, not at the level of state access.
 
+### State Multiplexing Around a Dominant Baseline
+
+The existence of a dominant configuration does not imply behavioral purity. Post-collapse systems frequently exhibit state multiplexing across narrative, power-based, and avoidant states.
+
+What multiplexing does not imply is coexistence of multiple stabilizations.
+
+Multiplexed states are accessed insofar as they do not undermine the dominant baseline. They are secondary, situational, or instrumental. The dominant configuration determines which transitions are cheap, which are costly, and which are destabilizing if sustained.
+
+A power-dominant system may deploy narrative framing, but narrative coherence is optional and disposable. A narrative-dominant system may exert control, but sustained dominance threatens coherence. An avoidant-dominant system may borrow either, but only briefly and at distance.
+
+Multiplexing without dominance produces instability. Multiplexing organized around a dominant baseline produces durable reorganization.
+
+### Behavioral Signatures Are Outputs, Not Causes
+
+Rage, certainty, emotional detachment, and moralization are commonly mistaken for causal traits. In this framework, they are outputs of the selected regulatory mechanic.
+
+Rage in power-based configurations signals breach of externalization—moments when constraint returns despite dominance. Certainty in narrative configurations signals ambiguity elimination, not conviction strength. Detachment in avoidant configurations signals exposure minimization, not emotional absence.
+
+These behaviors do not explain the configuration. They are produced by it.
+
+This clarification removes the need for trait-based explanations and prevents moral or psychological inference from surface presentation.
+
+### What This Clarifies About Stabilization and Failure
+
+The chapters preceding this one describe the available post-collapse stabilizations. This chapter explains why those stabilizations are the only ones available and why they differ.
+
+What determines outcome is not collapse severity, affective profile, or intent. It is whether the system possesses a stabilization strategy that can eliminate its dominant intolerable feedback channel.
+
+Where such a strategy exists, reorganization consolidates. Where none exists—where ambiguity, constraint, and exposure are all intolerable and no externalization 
+can hold—stabilization fails.
+
+The following chapter examines those cases. Psychosis is addressed there not as pathology, but as emergency repair when no stabilization can converge.
+ 
