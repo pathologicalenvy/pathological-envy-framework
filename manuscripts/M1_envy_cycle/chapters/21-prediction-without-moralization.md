@@ -15,11 +15,11 @@ Function does not imply justification, nor does it imply virtue. It specifies pu
 21.3 Predictive Power of Cycle Modeling
 
 Because regulatory cycles follow identifiable states and transitions, their behavior is predictable. Prediction does not require access to subjective intention. It requires identification of:
-•	The regulated variable
-•	The current state of the cycle
-•	Available regulatory actions
-•	Feedback conditions
-•	Proximity to collapse
+-	The regulated variable
+-	The current state of the cycle
+-	Available regulatory actions
+-	Feedback conditions
+-	Proximity to collapse
 
 From these parameters, likely probabilistic (rather than deterministic) trajectories can be inferred.
 
