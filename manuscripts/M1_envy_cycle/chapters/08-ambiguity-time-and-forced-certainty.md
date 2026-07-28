@@ -29,6 +29,7 @@ Time does not reduce ambiguity. It does not collapse incompatible object-states,
 Waiting therefore does not function as a buffer. It functions as an amplifier. As time progresses, expected relief probability does not recover; it degrades. The system is not moving closer to resolution by waiting—it is accruing strain without progress.
 
 This is why silence is more destabilizing than rejection, and why indefinite delay is more corrosive than clear loss. Time adds pressure, not clarity.
+
 When ambiguity blocks cycle completion, immediate escalation is not always possible or desirable. In some cases, the system enters a provisional state in which action is suspended while coherence is maintained. This state is commonly described as “waiting,” but it is not passive inactivity. It is an active attempt to preserve stability while resolution remains unavailable.
 
 Waiting arises when no option can be executed without unacceptable cost. Feedback may be delayed, inaccessible, or unsafe to pursue. Confrontation may amplify exposure. Withdrawal may fail to sufficiently reduce load. In such conditions, the system remains engaged with the unresolved situation while refraining from decisive action.
@@ -38,12 +39,13 @@ Crucially, waiting does not resolve ambiguity; it postpones its consequences.
 To sustain this postponement, the system often recruits repetitive attentional or behavioral patterns that temporarily dampen regulatory load. These patterns do not answer the unresolved question. Instead, they narrow focus, induce predictability, or generate momentary relief through repetition. Because the underlying ambiguity remains unchanged, relief is brief and repetition becomes necessary.
 
 Several features reliably characterize this pattern:
-•	repetition without informational gain,
-•	transient relief followed by rapid reactivation,
-•	preservation of the existing configuration,
-•	consumption of time without meaningful progress.
+-	repetition without informational gain,
+-	transient relief followed by rapid reactivation,
+-	preservation of the existing configuration,
+-	consumption of time without meaningful progress.
 
 These features are not incidental. They reflect the constraints of attempting to remain stable when no executable solution is available.
+
 Waiting therefore functions as a holding maneuver, not a solution. It preserves coherence and delays escalation, but it does so at increasing cost. As repetition continues without resolution, regulatory load accumulates rather than dissipates. What initially appears adaptive becomes progressively harder to sustain.
 
 When waiting no longer contains regulatory cost, cognition is forced to change—not because new information has appeared, but because action requires an object-state to be selected.
