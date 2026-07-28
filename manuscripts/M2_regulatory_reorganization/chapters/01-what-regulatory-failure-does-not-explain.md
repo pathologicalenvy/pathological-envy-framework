@@ -6,7 +6,7 @@ Contemporary theories of personality describe structure. Contemporary theories o
 
 This gap persists across schools of thought. Trait models describe stability but struggle with sudden transformation. Developmental models describe formation but struggle with rupture. Diagnostic systems describe outcomes but do not account for the processes that produce them. As a result, collapse is often treated as anomaly, pathology, or exception rather than as a structural event with lawful consequences.
 
-**Why Existing Models Fracture at Collapse**
+### Why Existing Models Fracture at Collapse
 
 Most psychological frameworks assume continuity. Personality traits persist. Coping strategies adapt. Defenses shift incrementally. Even trauma models often presume a preexisting structure that remains fundamentally intact.
 
