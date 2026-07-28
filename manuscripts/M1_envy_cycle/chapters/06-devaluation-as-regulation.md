@@ -9,6 +9,7 @@ Within the cycle, devaluation persists not because it provides pleasure, cathars
 6.2 Devaluation Versus Expression
 
 Devaluation is frequently misinterpreted as an expression of anger, resentment, or aggression. In the present framework, such interpretations are secondary. While devaluation may be accompanied by affect, its persistence is explained by regulatory efficacy, not emotional discharge.
+
 An expressive action would be expected to reduce internal tension regardless of external response. Devaluation does not operate in this manner. If no external feedback is detected, devaluation fails to terminate the cycle, regardless of how intense or forceful the action may be.
 
 This dependence on feedback distinguishes devaluation from catharsis and situates it firmly within a negative reinforcement model.
@@ -22,13 +23,13 @@ By altering perceived relative standing, devaluation reduces the immediacy of ex
 6.4 Forms of Devaluation
 
 Devaluation may take multiple forms depending on situational constraints, relational proximity, and available leverage. These forms include, but are not limited to:
-•	Minimization or dismissal
-•	Comparison to inferior others
-•	Ridicule or mockery
-•	Moral reframing
-•	Exclusion or withdrawal of recognition
-•	Undermining competence or credibility
-•	Annihilatory attacks aimed at total discreditation
+-	Minimization or dismissal
+-	Comparison to inferior others
+-	Ridicule or mockery
+-	Moral reframing
+-	Exclusion or withdrawal of recognition
+-	Undermining competence or credibility
+-	Annihilatory attacks aimed at total discreditation
 
 Differences in form do not imply differences in underlying motivation. All serve the same regulatory purpose: reduction of exposure through alteration of relative position.
 
