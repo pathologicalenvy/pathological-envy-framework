@@ -9,10 +9,10 @@ The value of the framework lies not in novelty of terminology, but in the operat
 22.2 Earlier Identification of Failure Risk
 
 Formalizing the cycle allows earlier identification of conditions associated with escalation and collapse. Rather than waiting for overt breakdown, practitioners and observers can monitor probabilistic indicators rather than deterministic predictors:
-•	Persistence of failed relief
-•	Rising escalation pressure
-•	Declining feedback interpretability
-•	Narrowing of viable exits
+-	Persistence of failed relief
+-	Rising escalation pressure
+-	Declining feedback interpretability
+-	Narrowing of viable exits
 
 These indicators permit recognition of vulnerability before collapse occurs.
 
@@ -55,10 +55,10 @@ Recognizing these limits allows for realistic goal-setting and avoids interventi
 22.8 Implications for Research
 
 Formal specification of cycles and failure conditions creates opportunities for empirical testing. Hypotheses can be generated regarding:
-•	State transitions
-•	Feedback sensitivity
-•	Collapse thresholds
-•	Repair trajectories
+-	State transitions
+-	Feedback sensitivity
+-	Collapse thresholds
+-	Repair trajectories
 
 These hypotheses can be examined without requiring reduction of complex experience to single variables. Rather than validating specific diagnoses, these research directions examine system behavior.
 
