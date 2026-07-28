@@ -1,6 +1,6 @@
 Chapter One
 
-## What Regulatory Failure Does Not Explain
+# What Regulatory Failure Does Not Explain
 
 Contemporary theories of personality describe structure. Contemporary theories of trauma describe injury. Contemporary theories of psychopathology describe patterns of dysfunction. What remains insufficiently explained is what happens when structure itself collapses—and why the reorganizations that follow are structured rather than arbitrary.
 
