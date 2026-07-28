@@ -19,7 +19,7 @@ Existing models tend to respond to this by:
 
 None of these approaches explain why collapse produces patterned divergence rather than randomness.
 
-**The Problem of Divergent Outcomes**
+### The Problem of Divergent Outcomes
 
 Individuals exposed to similar classes of mortification do not reorganize uniformly. Some withdraw. Some impose control. Some rigidify meaning. Some fragment. Some impose coherence at the cost of reality. These outcomes recur across contexts with sufficient regularity to suggest structure rather than contingency.
 
@@ -27,7 +27,7 @@ Yet existing frameworks either treat these outcomes as independent disorders or 
 
 What is missing is a unifying account of post-collapse divergence—one that explains why outcomes cluster, how they relate, and under what conditions they arise.
 
-**Static Labels, Dynamic Failures**
+### Static Labels, Dynamic Failures
 
 Terms such as “narcissistic,” “borderline,” “psychopathic,” and “psychotic” function descriptively but fail mechanistically. They name surface patterns without explaining how a system arrives there following collapse.
 
@@ -38,13 +38,13 @@ When treated as static identities, these labels obscure:
 
 A theory that cannot explain movement between states cannot explain collapse.
 
-**The Absence of Transition Logic**
+### The Absence of Transition Logic
 
 The central absence is transition logic. How does a system move from coherence to collapse? How does it reorganize afterward? What constrains that reorganization? Why does it converge in some cases and fail in others?
 
 Without answers to these questions, explanations remain partial. They describe what is observed without accounting for why it appears or why it persists.
 
-**What a Sufficient Account Requires**
+### What a Sufficient Account Requires**
 
 A sufficient account of post-collapse behavior must:
 •	treat collapse as a structural event rather than a symptom,
@@ -55,7 +55,7 @@ A sufficient account of post-collapse behavior must:
 
 Such an account must operate at the level of process rather than identity, and at the level of structure rather than explanatory narrative.
 
-**Manuscript Purpose**
+### Manuscript Purpose
 
 The aim of this manuscript is to provide that account.
 
