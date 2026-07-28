@@ -3,6 +3,7 @@ Chapter 7 — Feedback, Silence, and Failed Relief
 7.1 Overview
 
 This chapter specifies the role of external feedback as the controlling variable in the pathological envy cycle. Regulatory actions within the cycle do not terminate on the basis of intention, intensity, or internal satisfaction. They terminate only when external confirmation of relief is detected.
+
 Feedback determines whether the cycle returns to dormancy, escalates, or collapses. In the absence of usable feedback, regulatory action loses solvability regardless of its severity.
 
 7.2 External Feedback as a Regulatory Requirement
@@ -16,6 +17,7 @@ Feedback functions as confirmation that comparative exposure has been reduced. T
 7.3 Feedback Thresholds
 
 The threshold for usable feedback is functional rather than emotional. The system does not seek dramatic reaction. It seeks only enough signal to confirm that the regulatory action altered relative position.
+
 Thresholds are context-dependent and shaped by prior learning. In environments where minor cues have previously produced relief, minimal feedback may terminate the cycle. In environments characterized by behavioral flatness or non-reactivity, the threshold effectively rises, increasing escalation pressure.
 
 7.4 Silence as Signal Failure
@@ -29,6 +31,7 @@ Silence does not escalate shame directly. It escalates unsolvability.
 7.5 Feedback Versus Resistance
 
 It is critical to distinguish silence from resistance. Resistance—such as disagreement, deflection, or confrontation—still provides feedback by signaling engagement and impact. Silence provides none.
+
 From a regulatory perspective, resistance is preferable to silence because it preserves predictability. Silence eliminates the informational basis required for termination and therefore accelerates escalation.
 
 7.6 Expected Relief Probability (ERP)
