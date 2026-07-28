@@ -15,10 +15,10 @@ This cycle represents one instantiation of a broader class of regulatory systems
 18.3 Other Regulatory Cycles
 
 Other affective and cognitive systems operate through analogous cycles, despite regulating different variables. Examples include:
-•	Mood regulation, which attempts to stabilize affect through activity, withdrawal, or interpretation
-•	Trauma regulation, which attempts to control threat through avoidance, hypervigilance, or reenactment
-•	Salience regulation, which governs assignment of significance and relevance
-•	Prediction regulation, which attempts to minimize surprise and uncertainty
+-	Mood regulation, which attempts to stabilize affect through activity, withdrawal, or interpretation
+-	Trauma regulation, which attempts to control threat through avoidance, hypervigilance, or reenactment
+-	Salience regulation, which governs assignment of significance and relevance
+-	Prediction regulation, which attempts to minimize surprise and uncertainty
 
 Each of these systems operates through actions intended to reduce an aversive internal state by altering external or internal conditions.
 
@@ -31,10 +31,10 @@ When feedback fails or becomes uninterpretable, escalation occurs. This escalati
 18.5 Common Escalation Dynamics
 
 Despite differences in regulated variables, escalation dynamics share key features:
-•	Iterative trial-and-error
-•	Adjustment of intensity, scope, or strategy
-•	Persistence despite stable affect
-•	Increasing rigidity as uncertainty grows
+-	Iterative trial-and-error
+-	Adjustment of intensity, scope, or strategy
+-	Persistence despite stable affect
+-	Increasing rigidity as uncertainty grows
 
 These features indicate that escalation is a structural response to failed relief, not a domain-specific phenomenon.
 
