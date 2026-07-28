@@ -13,6 +13,7 @@ This chapter formalizes the pre-cyclical operations that determine whether an en
 4.2 Internal Ambiguity as the Precondition
 
 The process begins not with the object, but with the system.
+
 At baseline, individuals carry varying degrees of unresolved internal ambiguity. This ambiguity may concern identity, value, trajectory, belonging, or future orientation. Importantly, ambiguity is not inherently pathological. It can remain dormant, tolerated, or even productive under conditions of sufficient internal regulation.
 
 Objects do not generate this ambiguity. Rather, objects become relevant because ambiguity already exists.
@@ -26,6 +27,7 @@ This distinction is critical: ambiguity is always present, but tolerance for amb
 Not all objects are candidates for regulatory use. Before any binding occurs, the system performs a rapid, implicit screening operation: the Regulatory Eligibility Check (REC).
 
 REC determines whether an encountered object could, in principle, bear regulatory value. This is not a commitment. It is a permission check.
+
 An object that passes REC is one that plausibly occupies a position capable of resolving, stabilizing, or absorbing internal ambiguity. This evaluation operates across multiple asymmetry planes, including but not limited to status, desirability, authority, access, symbolic leverage, or narrative position. The process is not conscious, reflective, or moral. It is structural.
 
 Most objects fail REC. They are noticed and dismissed without cost, trace, or fixation. Importantly, REC carries no regulatory expense. Passing REC does not assign value, bind ambiguity, or install dependency. It merely opens the possibility that such assignment could occur later.
@@ -39,6 +41,7 @@ When internal ambiguity reaches a threshold where internal containment is insuff
 OCAC is the moment of commitment.
 
 Formally, OCAC is the operation by which unresolved internal ambiguity is externalized and bound to a specific object. At this point, the object is assigned non-zero regulatory value, defined strictly as its potential to carry, stabilize, or resolve ambiguity through external regulation.
+
 This assignment is not emotional valuation. An object may be disliked, admired, feared, or resented and still carry high regulatory value. What matters is function, not valence.
 
 OCAC replaces what has historically been referred to as “snapshotting.” However, nothing perceptual is frozen. What becomes fixed are the rules governing ambiguity resolution. Once ambiguity is bound to an object, future regulation must route through that object. The object becomes temporally central, not because it is idealized, but because ambiguity has been mapped onto it.
@@ -50,6 +53,7 @@ OCAC is expensive. It produces immediate relief by externalizing ambiguity, but 
 The relief produced by OCAC is real but temporary. By externalizing ambiguity, the system reduces immediate internal strain. However, this relief is purchased by committing future regulation to the object.
 
 After OCAC, disengagement carries cost. Dropping the object does not merely end an interaction; it requires reinternalizing unresolved ambiguity. As long as ambiguity remains unresolved, this cost is experienced as intolerable. The system therefore prefers continued engagement—however distorted—over release.
+
 This deferred-cost structure explains why fixation persists even when objects become aversive, humiliating, or destabilizing. It also explains why rational advice to “let go” fails once capture has occurred. The problem is not insight, but economics: release is more expensive than distortion.
 
 4.6 Symmetry Containment Maneuvers (SCM)
@@ -66,12 +70,14 @@ Critically, SCM does not aim to establish or preserve symmetry as a stable relat
 
 4.7 SCM Is Not Phase-Bound
 
-Earlier interpretations often assume that empathy emulation appears only prior to object-centered ambiguity capture, functioning as a capture-facilitating tactic. While SCM may indeed be observed in pre-capture contexts—where it lowers defensive distance and increases the probability of successful capture—this is not its exclusive domain.
+Earlier interpretations often assume that empathy emulation appears only prior to object-centered ambiguity capture, functioning as a capture-facilitating tactic. 
+
+While SCM may indeed be observed in pre-capture contexts—where it lowers defensive distance and increases the probability of successful capture—this is not its exclusive domain.
 
 Empirical observation indicates that SCM may also be deployed after capture, including:
-•	following devaluation that overshoots and precipitates object withdrawal,
-•	during moments of impending disengagement or boundary enforcement,
-•	when ambiguity collapses too rapidly and threatens relational rupture.
+-	following devaluation that overshoots and precipitates object withdrawal,
+-	during moments of impending disengagement or boundary enforcement,
+-	when ambiguity collapses too rapidly and threatens relational rupture.
 
 In such cases, SCM does not facilitate capture but instead functions as a loss-prevention maneuver, temporarily suspending symmetry aversion to maintain access to a regulatorily bound object.
 
@@ -88,19 +94,19 @@ Thus, SCM represents a local optimization under constraint: symmetry is tolerate
 4.9 Distinguishing SCM from Empathy
 
 Although SCM may be phenomenologically indistinguishable from empathy at the surface level, it differs functionally in several critical respects:
-•	SCM is contingent on proximity threat; empathy is not.
-•	SCM collapses or reverses under sustained autonomy; empathy tolerates autonomy.
-•	SCM tracks the object’s state only insofar as it predicts distance or loss.
-•	SCM is withdrawn once containment is achieved.
+-	SCM is contingent on proximity threat; empathy is not.
+-	SCM collapses or reverses under sustained autonomy; empathy tolerates autonomy.
+-	SCM tracks the object’s state only insofar as it predicts distance or loss.
+-	SCM is withdrawn once containment is achieved.
 
 These distinctions explain why recipients frequently report that the warmth feels real yet unstable, meaningful yet short-lived.
 
 4.10 Implications for Cycle Dynamics
 
 Recognizing SCM as a situational mechanism rather than a phase-specific behavior resolves several otherwise puzzling features of pathological envy:
-•	why warmth may precede capture, disappear after capture, and reappear after devaluation,
-•	why apparent empathy often intensifies at moments of potential rupture,
-•	why symmetry tolerance coexists with strong symmetry aversion.
+-	why warmth may precede capture, disappear after capture, and reappear after devaluation,
+-	why apparent empathy often intensifies at moments of potential rupture,
+-	why symmetry tolerance coexists with strong symmetry aversion.
 
 SCM therefore does not contradict the framework’s assertion that pathological envy structures are symmetry-averse. It clarifies how symmetry aversion is temporarily overridden when cost conditions demand it.
 
@@ -113,6 +119,7 @@ This interpretation preserves the internal coherence of the envy cycle, accounts
 4.12 Early Release and Late Impossibility
 
 The distinction between pre- and post-OCAC disengagement is stark.
+
 Before OCAC, objects can be dismissed cleanly. Minor aversive cues, disappointments, or mismatches suffice to terminate engagement. No ambiguity has been bound, so no un-mapping is required.
 
 After OCAC, the same cues are insufficient. The system reinterprets, rationalizes, or defers them. Release would require paying the accumulated cost of unresolved ambiguity, which now exceeds the cost of continued cycling.
