@@ -44,7 +44,7 @@ The central absence is transition logic. How does a system move from coherence t
 
 Without answers to these questions, explanations remain partial. They describe what is observed without accounting for why it appears or why it persists.
 
-### What a Sufficient Account Requires**
+### What a Sufficient Account Requires
 
 A sufficient account of post-collapse behavior must:
 •	treat collapse as a structural event rather than a symptom,
