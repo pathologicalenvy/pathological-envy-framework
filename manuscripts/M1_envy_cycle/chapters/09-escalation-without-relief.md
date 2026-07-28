@@ -45,6 +45,7 @@ These attempts are still regulatory in intent. They are not synonymous with phys
 9.7 Persistence of Escalation
 
 Escalation persists as long as ERP remains greater than zero. Each failed attempt reduces ERP incrementally but does not immediately terminate escalation.
+
 The persistence of escalation reflects the system’s resistance to abandoning a regulatory strategy that has previously worked. Abandonment occurs only when prediction becomes impossible.
 
 9.8 When Escalation Ceases to Function
