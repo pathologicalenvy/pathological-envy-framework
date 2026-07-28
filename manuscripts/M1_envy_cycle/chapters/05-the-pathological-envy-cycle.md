@@ -96,10 +96,10 @@ Escalation ceases to function as regulation. The system must exit or fail.
 5.12 Exit Selection
 
 When predictive collapse occurs, the system routes toward one of several terminal pathways:
-•	Grievance crystallization
-•	Idealized crystallization
-•	Schizoid withdrawal
-•	Psychotic collapse
+-	Grievance crystallization
+-	Idealized crystallization
+-	Schizoid withdrawal
+-	Psychotic collapse
 
 These outcomes are not random. Each represents a different stabilization response to the same regulatory failure.
 
