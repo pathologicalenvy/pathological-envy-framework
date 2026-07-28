@@ -32,9 +32,9 @@ What is missing is a unifying account of post-collapse divergence—one that exp
 Terms such as “narcissistic,” “borderline,” “psychopathic,” and “psychotic” function descriptively but fail mechanistically. They name surface patterns without explaining how a system arrives there following collapse.
 
 When treated as static identities, these labels obscure:
-•	the conditions under which they form,
-•	their relationship to one another,
-•	and the possibility of transition between them.
+-	the conditions under which they form,
+-	their relationship to one another,
+-	and the possibility of transition between them.
 
 A theory that cannot explain movement between states cannot explain collapse.
 
@@ -47,11 +47,11 @@ Without answers to these questions, explanations remain partial. They describe w
 ### What a Sufficient Account Requires
 
 A sufficient account of post-collapse behavior must:
-•	treat collapse as a structural event rather than a symptom,
-•	explain why reorganization is necessary rather than optional,
-•	specify the constraints under which reorganization occurs,
-•	account for both convergence and failure,
-•	and permit prediction without determinism.
+-	treat collapse as a structural event rather than a symptom,
+-	explain why reorganization is necessary rather than optional,
+-	specify the constraints under which reorganization occurs,
+-	account for both convergence and failure,
+-	and permit prediction without determinism.
 
 Such an account must operate at the level of process rather than identity, and at the level of structure rather than explanatory narrative.
 
