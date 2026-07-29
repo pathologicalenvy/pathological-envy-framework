@@ -1,4 +1,4 @@
-TABLE OF CONTENTS
+# Manuscript M2 — TABLE OF CONTENTS
  
 Part I — The Remaining Problem
 1. What Regulatory Failure Does Not Explain
