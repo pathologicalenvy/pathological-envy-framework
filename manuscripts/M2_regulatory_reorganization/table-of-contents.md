@@ -6,7 +6,6 @@ Part I — The Remaining Problem
 
 Part II — Reorganization as Necessity
 3. Why Collapse Requires Reorganization
-4.
 4. Stabilization, Not Closure
 
 Part III — Constraint and Transition
