@@ -2,10 +2,11 @@
  
 Part I — The Remaining Problem
 1. What Regulatory Failure Does Not Explain
-2. The Error of Treating Outcomes as Causes 
+2. The Error of Treating Outcomes as Causes
 
 Part II — Reorganization as Necessity
 3. Why Collapse Requires Reorganization
+4.
 4. Stabilization, Not Closure
 
 Part III — Constraint and Transition
