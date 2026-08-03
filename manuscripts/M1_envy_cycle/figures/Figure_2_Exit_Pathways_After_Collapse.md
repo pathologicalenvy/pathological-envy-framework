@@ -1,4 +1,4 @@
-# Figure 1. The Pathological Envy Cycle
+# Figure 2. Exit Pathways After Predictive Collapse
 
 ![Figure 2. Exit Pathways After Collapse](Figure_2_Exit_Pathways_After_Collapse_v2.png)
 
