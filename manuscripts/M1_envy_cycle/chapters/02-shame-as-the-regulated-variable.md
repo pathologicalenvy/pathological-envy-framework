@@ -79,6 +79,6 @@ Dormancy does not imply processing of shame vulnerability. It reflects temporary
 
 2.10 Summary
 
-Shame—defined as exposure of unfavorable relative position—is the regulated variable driving the pathological envy cycle. Envy functions to reduce shame activation by altering relational conditions rather than by processing the affect itself.
+Shame, defined as exposure of unfavorable relative position, is the regulated variable driving the pathological envy cycle. Envy functions to reduce shame activation by altering relational conditions rather than by processing the affect itself.
 
 Understanding shame as the control variable clarifies why regulation is external, why insight destabilizes, and why escalation persists despite structurally stable affect. The following chapter positions psychosis as a problem lacking ownership because its failure conditions have not been formally specified.
