@@ -25,7 +25,7 @@ Psychosis does not require maximal escalation, extreme affect, or prolonged dysr
 
 Although this book focuses on pathological envy as one pathway to failure, the logic of regulatory failure applies more broadly. In the envy cycle, the regulated variable is shame and exposure. Psychosis arises when shame can no longer be externalized, contained, or disengaged from.
 
-Other cycles may regulate different variables—threat, salience, prediction—but converge on psychosis under analogous failure conditions. What unifies these pathways is not the content of experience, but the loss of regulatory control.
+Other cycles may regulate different variables (threat, salience, prediction) but converge on psychosis under analogous failure conditions. What unifies these pathways is not the content of experience, but the loss of regulatory control.
 
 Different regulated variables shape phenomenology without altering the underlying failure condition.
 
