@@ -16,7 +16,7 @@ The failure of projection leaves shame unassigned within the regulatory architec
 
 15.3 Collapse of the Self–Object Boundary
 
-As projection fails, the boundary between self and object deteriorates. Distinctions that previously organized experience—inside versus outside, self versus other, source versus target—lose coherence.
+As projection fails, the boundary between self and object deteriorates. Distinctions that previously organized experience (inside versus outside, self versus other, source versus target) lose coherence.
 
 This collapse does not imply confusion in the ordinary sense. Rather, it reflects the system’s inability to maintain separations that previously allowed shame to be managed at a distance.
 
