@@ -65,4 +65,4 @@ This distinction preserves ethical clarity while avoiding explanatory distortion
 
 Understanding pathological envy and psychosis as regulatory processes enables prediction without moralization. Behavior is interpreted as functional output constrained by system state rather than as evidence of character.
 
-This approach clarifies responsibility, improves prediction, and avoids both blame and excuse. The final chapter considers what becomes possible—clinically, theoretically, and ethically—once regulatory failure is formalized.
+This approach clarifies responsibility, improves prediction, and avoids both blame and excuse. The final chapter considers what becomes possible - clinically, theoretically, and ethically - once regulatory failure is formalized.
