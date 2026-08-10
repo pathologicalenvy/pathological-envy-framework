@@ -45,8 +45,8 @@ Part VI — Implications and Limits
 
 Appendices
 
-Appendix A — Structural Diagrams and Legends
-Appendix B — Terminology Crosswalk
-Appendix C — Framework Summary
-Appendix D — Methodological Clarifications and Non-Claims
-Appendix E — Intellectual Context
+#### Appendix A — Structural Diagrams and Legends
+#### Appendix B — Terminology Crosswalk
+#### Appendix C — Framework Summary
+#### Appendix D — Methodological Clarifications and Non-Claims
+#### Appendix E — Intellectual Context
