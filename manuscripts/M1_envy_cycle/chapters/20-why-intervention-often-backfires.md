@@ -24,7 +24,7 @@ This does not imply that confrontation is inherently harmful, only that it is de
 
 Reassurance frequently fails because it does not alter the system’s assessment of relative position or exposure. Statements intended to reduce distress may be perceived as irrelevant or dismissive if they do not register as genuine feedback.
 
-In regulatory terms, reassurance often fails to meet the threshold for usable signal—particularly when exposure remains unaltered—and therefore does not terminate the cycle. In some contexts, it may increase uncertainty by contradicting lived experience.
+In regulatory terms, reassurance often fails to meet the threshold for usable signal - particularly when exposure remains unaltered - and therefore does not terminate the cycle. In some contexts, it may increase uncertainty by contradicting lived experience.
 
 20.5 Interpretation as Exposure Amplification
 
