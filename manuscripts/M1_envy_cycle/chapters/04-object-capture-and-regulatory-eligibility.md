@@ -2,7 +2,7 @@ Chapter 4 — Regulatory Eligibility and Object Capture
 
 4.1 Overview: Why Not All Objects Matter
 
-A persistent gap in envy theory concerns object selectivity. Envy does not attach indiscriminately. Most encounters—most people, situations, and comparisons—leave no residue. They are noticed, evaluated, and discarded without difficulty. Others, however, become persistent, non-discardable, and regulatorily central. Existing models describe this outcome but rarely explain its preconditions.
+A persistent gap in envy theory concerns object selectivity. Envy does not attach indiscriminately. Most encounters involving most people, situations, and comparisons leave no residue. They are noticed, evaluated, and discarded without difficulty. Others, however, become persistent, non-discardable, and regulatorily central. Existing models describe this outcome but rarely explain its preconditions.
 
 This chapter addresses that gap.
 
@@ -18,7 +18,7 @@ At baseline, individuals carry varying degrees of unresolved internal ambiguity.
 
 Objects do not generate this ambiguity. Rather, objects become relevant because ambiguity already exists.
 
-An external encounter only becomes regulatorily significant when it intersects with ambiguity that the system is unable—or unwilling—to resolve internally. When internal regulation is sufficient, ambiguity remains self-contained and objects remain peripheral. When internal regulation is insufficient, the system becomes receptive to external routing.
+An external encounter only becomes regulatorily significant when it intersects with ambiguity that the system is unable or unwilling to resolve internally. When internal regulation is sufficient, ambiguity remains self-contained and objects remain peripheral. When internal regulation is insufficient, the system becomes receptive to external routing.
 
 This distinction is critical: ambiguity is always present, but tolerance for ambiguity varies. What follows is not the elimination of ambiguity, but its redistribution.
 
