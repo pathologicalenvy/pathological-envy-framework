@@ -37,7 +37,7 @@ This distinguishes withdrawal from the other stabilization pathways. Regulation 
 
 13.7 Limits of Withdrawal
 
-Withdrawal does not process shame. It reduces the likelihood of activation by reducing exposure. If exposure reoccurs—through proximity, memory, or symbolic reminder, including internal symbolic reminders—the cycle may reactivate.
+Withdrawal does not process shame. It reduces the likelihood of activation by reducing exposure. If exposure reoccurs through proximity, memory, or symbolic reminder (including internal symbolic reminders) the cycle may reactivate.
 
 Withdrawal is therefore stable only as long as disengagement is maintained. It is contingent on environmental control.
 
