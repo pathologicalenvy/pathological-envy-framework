@@ -44,7 +44,7 @@ Across these outcomes, anti-knowledge functions to maintain regulatory stability
 
 17.7 Anti-Knowledge and Learning Failure
 
-Anti-knowledge results in learning failure, but this failure is functional rather than accidental. Learning would require sustained engagement with difference, ambiguity, and correction—each of which threatens exposure.
+Anti-knowledge results in learning failure, but this failure is functional rather than accidental. Learning would require sustained engagement with difference, ambiguity, and correction - each of which threatens exposure.
 
 By preventing learning, the system preserves stability at the cost of adaptability.
 
