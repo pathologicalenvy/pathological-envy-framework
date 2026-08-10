@@ -30,11 +30,11 @@ What precedes devaluation in the pathological envy cycle is not idealization, bu
 
 Envy is mobilized not by the presence of a superior object, but by the detection of a symmetry-capable object: an object that occupies a shared evaluative plane on which relative position could become consequential for self-coherence if left unresolved. The object need not be hostile, competitive, or even aware. Symmetry capability alone is sufficient.
 
-Once a symmetry-capable object is detected, asymmetry becomes required for regulation to complete. However, asymmetry is not always immediately solvable. The system must identify a viable asymmetry plane—one that can render the object non-symmetry-capable without incurring prohibitive cost through exposure, retaliation, or loss of access. Until such a plane is identified, direct devaluation is deferred.
+Once a symmetry-capable object is detected, asymmetry becomes required for regulation to complete. However, asymmetry is not always immediately solvable. The system must identify a viable asymmetry plane: one that can render the object non-symmetry-capable without incurring prohibitive cost through exposure, retaliation, or loss of access. Until such a plane is identified, direct devaluation is deferred.
 
 This deferral produces a temporal holding condition: asymmetry stasis.
 
-During asymmetry stasis, rivalry is internally active but behaviorally suppressed. The system must preserve access to the object, avoid triggering disengagement, and prevent premature escalation of symmetry. The behaviors that emerge under these constraints—politeness, interest, flattery, encouragement, apparent respect—do not reflect positive valuation of the object. They reflect the absence of a solved asymmetry.
+During asymmetry stasis, rivalry is internally active but behaviorally suppressed. The system must preserve access to the object, avoid triggering disengagement, and prevent premature escalation of symmetry. The behaviors that emerge under these constraints (politeness, interest, flattery, encouragement, apparent respect) do not reflect positive valuation of the object. They reflect the absence of a solved asymmetry.
 
 Crucially, asymmetry stasis is not affective, relational, or symbolic in nature. It is entirely time-dependent, governed by the latency required to identify a viable asymmetry plane under constraint. Once asymmetry becomes solvable, the holding condition collapses immediately. No emotional reversal is required. Devaluation does not replace admiration; it replaces delay.
 
@@ -71,7 +71,7 @@ Dormancy represents the termination condition of the cycle. No further regulator
 
 If no usable feedback is detected, the system registers signal failure. Importantly, shame does not necessarily increase at this stage. What increases is uncertainty regarding regulatory efficacy.
 
-Signal failure indicates that the chosen action did not restore equilibrium. It is thus informational, not affective—and reflects uncertainty about efficacy rather than increased distress.
+Signal failure indicates that the chosen action did not restore equilibrium. It is thus informational, not affective - and reflects uncertainty about efficacy rather than increased distress.
 
 5.9 Escalation
 
@@ -83,7 +83,7 @@ Throughout escalation, shame may remain relatively constant. The variable that c
 
 5.10 Expected Relief Probability (ERP)
 
-At each iteration, the system implicitly estimates Expected Relief Probability (ERP)—the likelihood that further action will reduce shame. As escalation fails repeatedly, ERP decreases.
+At each iteration, the system implicitly estimates Expected Relief Probability (ERP): the likelihood that further action will reduce shame. As escalation fails repeatedly, ERP decreases.
 
 ERP governs whether escalation continues, terminates, or collapses; it is not assumed to be consciously computed, but reflects the system’s implicit estimation of solvability.
 
