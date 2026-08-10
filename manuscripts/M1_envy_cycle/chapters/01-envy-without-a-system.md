@@ -62,7 +62,7 @@ Formalization does not replace descriptive richness. It organizes it.
 
 1.8 Scope of the Book
 
-This book does not attempt to catalog all forms of envy or reduce all psychopathology to a single cause. It focuses on pathological envy—envy that escalates, destabilizes, and contributes to regulatory failure as a process rather than a diagnosis.
+This book does not attempt to catalog all forms of envy or reduce all psychopathology to a single cause. It focuses on pathological envy: envy that escalates, destabilizes, and contributes to regulatory failure as a process rather than a diagnosis.
 
 The framework developed here uses envy as a primary case while extending to psychosis as a failure outcome. The emphasis is on process, not diagnosis.
 
@@ -76,4 +76,4 @@ Where concepts overlap with existing traditions, they are retained only insofar 
 
 Envy has been described exhaustively but not formalized as a system. Trait-based and moralized accounts fail to explain escalation, collapse, and stabilization.
 
-By treating envy as a regulatory cycle with defined architecture and failure conditions, this book provides a framework capable of structural prediction, integration, and ethical clarity. The following chapter specifies the regulated variable—shame and exposure—and establishes the control problem that drives the cycle.
+By treating envy as a regulatory cycle with defined architecture and failure conditions, this book provides a framework capable of structural prediction, integration, and ethical clarity. The following chapter specifies the regulated variable, shame and exposure, and establishes the control problem that drives the cycle.
