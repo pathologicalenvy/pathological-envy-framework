@@ -12,7 +12,7 @@ Acute psychosis occurs when regulatory failure is abrupt and containment is lost
 
 Acute collapse is characterized by instability, fragmentation, and rapid shifts in interpretation. Regulatory distance is minimal, and the system struggles to differentiate internal experience from external causation. 
 
-Importantly, acute psychosis is not inherently permanent. If containment can be reintroduced—through environmental stabilization, relational support, or spontaneous reorganization—the system may regain sufficient structure to exit the psychotic state. Acute collapse reflects absence of containment rather than presence of fixed false beliefs.
+Importantly, acute psychosis is not inherently permanent. If containment can be reintroduced through environmental stabilization, relational support, or spontaneous reorganization, the system may regain sufficient structure to exit the psychotic state. Acute collapse reflects absence of containment rather than presence of fixed false beliefs.
 
 16.3 Conditions Favoring Acute Recontainment
 
