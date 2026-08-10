@@ -30,7 +30,7 @@ Silence does not escalate shame directly. It escalates unsolvability.
 
 7.5 Feedback Versus Resistance
 
-It is critical to distinguish silence from resistance. Resistance—such as disagreement, deflection, or confrontation—still provides feedback by signaling engagement and impact. Silence provides none.
+It is critical to distinguish silence from resistance. Resistance - such as disagreement, deflection, or confrontation - still provides feedback by signaling engagement and impact. Silence provides none.
 
 From a regulatory perspective, resistance is preferable to silence because it preserves predictability. Silence eliminates the informational basis required for termination and therefore accelerates escalation.
 
