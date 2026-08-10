@@ -18,7 +18,7 @@ Each approach captures part of the phenomenon at different levels of analysis. N
 
 3.3 Description Without Process
 
-Most accounts of psychosis are descriptive rather than procedural. They catalog features—hallucinations, delusions, disorganization—but do not specify state transitions.
+Most accounts of psychosis are descriptive rather than procedural. They catalog features (hallucinations, delusions, disorganization) but do not specify state transitions.
 
 As a result, psychosis is often treated as an accumulation of symptoms rather than as a transition into a different mode of organization. This obscures why onset may be sudden, why course is variable, and why stabilization may occur without elimination of vulnerability.
 
@@ -26,7 +26,7 @@ As a result, psychosis is often treated as an accumulation of symptoms rather th
 
 A defining limitation of existing models is the absence of explicit failure conditions. Psychosis is rarely defined in terms of what has failed.
 
-Without failure conditions, psychosis appears mysterious or irreducible. It is attributed to excess—too much dopamine, too much meaning, too much stress—rather than to loss of function at the regulatory level.
+Without failure conditions, psychosis appears mysterious or irreducible. It is attributed to excesses (too much dopamine, too much meaning, too much stress) rather than to loss of function at the regulatory level.
 
 This excess framing obscures the possibility that psychosis reflects insufficient regulation, not excessive activity.
 
@@ -52,7 +52,7 @@ Without this structure, psychosis cannot be integrated with models of affect reg
 
 3.7 Psychosis as Outcome, Not Origin
 
-In this framework, psychosis is not treated as a primary disorder. It is treated as an outcome—a terminal state reached when regulation fails within a given cycle.
+In this framework, psychosis is not treated as a primary disorder. It is treated as an outcome: a terminal state reached when regulation fails within a given cycle.
 
 This reframing allows psychosis to be understood without reducing it to envy, trauma, cognition, or neurochemistry alone. These factors influence thresholds and pathways, but the failure logic remains the same.
 
