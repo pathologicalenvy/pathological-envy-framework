@@ -52,13 +52,13 @@ OCAC is expensive. It produces immediate relief by externalizing ambiguity, but 
 
 The relief produced by OCAC is real but temporary. By externalizing ambiguity, the system reduces immediate internal strain. However, this relief is purchased by committing future regulation to the object.
 
-After OCAC, disengagement carries cost. Dropping the object does not merely end an interaction; it requires reinternalizing unresolved ambiguity. As long as ambiguity remains unresolved, this cost is experienced as intolerable. The system therefore prefers continued engagement—however distorted—over release.
+After OCAC, disengagement carries cost. Dropping the object does not merely end an interaction; it requires reinternalizing unresolved ambiguity. As long as ambiguity remains unresolved, this cost is experienced as intolerable. The system therefore prefers continued engagement - however distorted - over release.
 
 This deferred-cost structure explains why fixation persists even when objects become aversive, humiliating, or destabilizing. It also explains why rational advice to “let go” fails once capture has occurred. The problem is not insight, but economics: release is more expensive than distortion.
 
 4.6 Symmetry Containment Maneuvers (SCM)
 
-Accounts of pathological envy frequently include reports of pronounced warmth, attunement, and apparent empathy expressed by the structure toward the object. These behaviors are often interpreted—by recipients and observers alike—as evidence of genuine empathic capacity or relational care. Within the present framework, however, such behaviors require a different functional interpretation.
+Accounts of pathological envy frequently include reports of pronounced warmth, attunement, and apparent empathy expressed by the structure toward the object. These behaviors are often interpreted, by recipients and observers alike, as evidence of genuine empathic capacity or relational care. Within the present framework, however, such behaviors require a different functional interpretation.
 
 Empathy-shaped attunement is not confined to a single phase of the envy cycle. It is neither exclusive to early proximity formation nor eliminated by object-centered ambiguity capture. Instead, it functions as a Symmetry Containment Maneuver (SCM): a situationally deployed regulatory response activated when ambiguity collapse threatens relational symmetry in a way that risks object loss.
 
@@ -72,7 +72,7 @@ Critically, SCM does not aim to establish or preserve symmetry as a stable relat
 
 Earlier interpretations often assume that empathy emulation appears only prior to object-centered ambiguity capture, functioning as a capture-facilitating tactic. 
 
-While SCM may indeed be observed in pre-capture contexts—where it lowers defensive distance and increases the probability of successful capture—this is not its exclusive domain.
+While SCM may indeed be observed in pre-capture contexts, where it lowers defensive distance and increases the probability of successful capture, this is not its exclusive domain.
 
 Empirical observation indicates that SCM may also be deployed after capture, including:
 -	following devaluation that overshoots and precipitates object withdrawal,
