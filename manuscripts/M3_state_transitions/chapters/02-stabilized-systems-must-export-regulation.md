@@ -22,7 +22,7 @@ Once stabilization has occurred, internal corrective pathways are rigid. Feedbac
 
 At that point, the environment becomes the regulatory surface.
 
-External systems—other people, groups, roles, or structures—absorb what can no longer be processed internally. This absorption does not require contact, hostility, or awareness. It requires only access and asymmetry, which will be addressed later. For now, it is sufficient to state that regulation moves outward when it cannot move inward.
+External systems (other people, groups, roles, or structures) absorb what can no longer be processed internally. This absorption does not require contact, hostility, or awareness. It requires only access and asymmetry, which will be addressed later. For now, it is sufficient to state that regulation moves outward when it cannot move inward.
 
 This outward movement is not inherently destructive. It becomes destructive only because the receiving system did not generate the instability and is not organized to contain it. The cost of regulation is displaced.
 
@@ -40,7 +40,7 @@ It is finishing regulation where it still can.
 
 Once regulation has been externalized, the system’s stability depends on continued access to external regulatory capacity. The consequences of losing external regulatory access are not uniform across systems.
 
-Whether withdrawal precipitates transient disruption or structural collapse depends on the internal cost of object loss—here termed the fragmentation cost of object loss.
+Whether withdrawal precipitates transient disruption or structural collapse depends on the internal cost of object loss: here termed the fragmentation cost of object loss.
 
 Where this cost is high, removal of external regulatory capacity destabilizes self-coherence and compels urgent reorganization. Where it is low, loss may be absorbed without immediate decompensation.
 
