@@ -24,7 +24,7 @@ Access ambiguity concerns whether contact, engagement, or availability will occu
 
 ### Intent Ambiguity
 
-Intent ambiguity concerns why an object is acting—or failing to act—in a particular way. The unresolved question is whether absence, delay, or behavior reflects benign constraint, indifference, hostility, or strategy. This axis recruits interpretive labor. When intent ambiguity dominates, systems engage in monitoring, hypothesis generation, and epistemic paranoia rather than immediate escalation.
+Intent ambiguity concerns why an object is acting (or failing to act) in a particular way. The unresolved question is whether absence, delay, or behavior reflects benign constraint, indifference, hostility, or strategy. This axis recruits interpretive labor. When intent ambiguity dominates, systems engage in monitoring, hypothesis generation, and epistemic paranoia rather than immediate escalation.
 
 ### Positional (Status) Ambiguity
 
@@ -38,7 +38,7 @@ These axes are not psychological categories. They are regulatory load dimensions
 
 Crucially, ambiguity collapse is axis-specific. Resolving access does not resolve intent. Clarifying intent does not resolve position. Resolving position does not resolve representation. Partial collapse therefore redistributes load rather than eliminating it.
 
-The remainder of this chapter examines what occurs when one or more of these axes remain unresolved without exit—how waiting, paranoia, and forced solvability emerge as regulatory responses, and why time functions as a compressive force that eventually renders certain axes intolerable.
+The remainder of this chapter examines what occurs when one or more of these axes remain unresolved without exit; how waiting, paranoia, and forced solvability emerge as regulatory responses; and why time functions as a compressive force that eventually renders certain axes intolerable.
 
 ### Ambiguity Suspension and Ambiguity Stasis
 
@@ -90,7 +90,7 @@ These features are not accidental. They are necessary consequences of attempting
 
 Waiting is not the only possible response to unsolved ambiguity. When waiting becomes intolerable, the system may attempt to force solvability by collapsing ambiguity into an actionable interpretation.
 
-Paranoia, as used here, refers to this forced acceleration. It converts uncertainty into a concrete hypothesis—often adversarial—not because evidence demands it, but because action becomes possible once intention is assigned.
+Paranoia, as used here, refers to this forced acceleration. It converts uncertainty into an often adversarial concrete hypothesis - not because evidence demands it, but because action becomes possible once intention is assigned.
 
 This maneuver terminates waiting by restoring an object, a motive, and a justification for response. It is therefore effective in the short term. However, because certainty is imposed rather than derived, error probability is high and downstream cost is often severe.
 
@@ -116,7 +116,7 @@ Epistemic paranoia emerges when interpretive ambiguity becomes intolerable but h
 
 Its function is not belief formation but interpretive labor.
 
-The system intensifies signal parsing—tone, timing, omission, sequence—while maintaining multiple competing hypotheses. Certainty is actively pursued but not yet fixed.
+The system intensifies signal parsing - tone, timing, omission, sequence - while maintaining multiple competing hypotheses. Certainty is actively pursued but not yet fixed.
 
 Object value is preserved.
 
@@ -142,7 +142,7 @@ Humiliation is tolerated because humiliation is convertible.
 
 Ambiguity is not.
 
-Direct questioning—“are you talking about me?”—functions as a forced clarification attempt, trading exposure and embarrassment for certainty. This posture precedes grievance formation and predicts escalation only when interpretive collapse fails.
+Direct questioning (e.g. "are you talking about me?") functions as a forced clarification attempt, trading exposure and embarrassment for certainty. This posture precedes grievance formation and predicts escalation only when interpretive collapse fails.
 
 Reputational paranoia is not persecutory.
 
@@ -160,7 +160,7 @@ Certainty is no longer sought.
 
 It is imposed.
 
-Intent is fixed categorically rather than inferred probabilistically. This transition does not reflect increased evidence but reduced tolerance. Certainty—however hostile—becomes cheaper than continued ambiguity.
+Intent is fixed categorically rather than inferred probabilistically. This transition does not reflect increased evidence but reduced tolerance. Certainty, however hostile, becomes cheaper than continued ambiguity.
 
 Persecutory paranoia is not investigative.
 
@@ -180,7 +180,7 @@ Reputational paranoia precedes persecutory paranoia.
 
 Persecutory paranoia precedes grievance.
 
-Importantly, humiliation, partial contact, or failed escalation do not produce grievance on their own. As long as ambiguity can be worked—through monitoring, hope, intermittent clarification, or interpretive openness—paranoia remains epistemic and reversible.
+Importantly, humiliation, partial contact, or failed escalation do not produce grievance on their own. As long as ambiguity can be worked through monitoring, hope, intermittent clarification, or interpretive openness, paranoia remains epistemic and reversible.
 
 Grievance forms only when ambiguity itself becomes the primary regulatory threat and interpretive labor can no longer stabilize coherence.
 
@@ -250,7 +250,7 @@ Regulatory load accumulates continuously over time. Completion does not.
 
 Completion occurs in discrete events, each with finite discharge capacity. These events may be brief or extended, embodied or narrative, human-mediated or impersonal. What they share is termination: pressure ends rather than recirculates.
 
-Because completion capacity is finite, mismatch between accumulated load and available completion surfaces produces predictable effects. When load exceeds discharge capacity, relief is partial. Baseline pressure remains elevated. Frequency of completion attempts increases. Escalation pressure emerges—not because ambiguity has worsened, but because termination has lagged accumulation.
+Because completion capacity is finite, mismatch between accumulated load and available completion surfaces produces predictable effects. When load exceeds discharge capacity, relief is partial. Baseline pressure remains elevated. Frequency of completion attempts increases. Escalation pressure emerges - not because ambiguity has worsened, but because termination has lagged accumulation.
 
 Completion events are therefore not interchangeable regardless of load magnitude. A minimal discharge event may suffice under low accumulation but fail entirely under prolonged environmental pressure. Load intensity must be matched by completion capacity. When it is not, repetition increases without resolution.
 
@@ -258,7 +258,7 @@ Completion events are therefore not interchangeable regardless of load magnitude
 
 Completion surfaces differ in their regulatory efficiency.
 
-Feedback-coupled completion surfaces provide micro-gap feedback that allows discharge to be titrated in real time. Human objects capable of attentive presence, listening, or minimal response function in this way. Subtle cues—timing, acknowledgment, posture, silence—signal whether load is dissipating or persists. Completion can therefore be adjusted, extended, or terminated precisely when discharge is achieved.
+Feedback-coupled completion surfaces provide micro-gap feedback that allows discharge to be titrated in real time. Human objects capable of attentive presence, listening, or minimal response function in this way. Subtle cues such (as timing, acknowledgment, posture, silence) signal whether load is dissipating or persists. Completion can therefore be adjusted, extended, or terminated precisely when discharge is achieved.
 
 Feedback-independent completion surfaces lack such corrective signals. Fictional objects, symbolic anchors, imagined figures, or purely repetitive activities do not provide confirmation of termination. Completion in these contexts is blind. Relief must be inferred rather than detected, often leading to repetition, ritualization, or escalation in an attempt to approximate discharge.
 
@@ -278,7 +278,7 @@ Such shifts do not indicate preference. They indicate cost minimization under co
 
 The presence of a real, accessible completion surface dramatically improves regulatory efficiency. Real object capture permits frequent, low-intensity discharge events rather than infrequent, high-intensity ones. Fictional or symbolic capture remains viable but is less precise, often requiring greater repetition to achieve partial relief.
 
-This distinction explains why systems with stable access to interactive completion surfaces appear quieter, less escalatory, and less compulsive—not because load is absent, but because termination is efficient.
+This distinction explains why systems with stable access to interactive completion surfaces appear quieter, less escalatory, and less compulsive. This is not because load is absent, but because termination is efficient.
 
 ### Routing Completion: State-Transition Directors Revisited
 
