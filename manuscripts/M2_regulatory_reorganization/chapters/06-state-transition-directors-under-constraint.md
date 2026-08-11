@@ -6,7 +6,7 @@ Collapse alone does not determine outcome. What follows collapse is not a free r
 
 These limits do not operate as causes of collapse, nor as explanations of personality. They become operative only once regulatory coherence has already failed. Their function is transitional: they bias the direction of reorganization at the moment when a system must stabilize but can no longer do so using prior strategies.
 
-In this sense, they function as state-transition directors—parameters that shape routing without determining outcome, and that influence stabilization without conferring permanence.
+In this sense, they function as state-transition directors - parameters that shape routing without determining outcome, and that influence stabilization without conferring permanence.
 
 ### State-Transition Directors
 
@@ -20,7 +20,7 @@ These directors are treated as capacity constraints with biological and developm
 
 In some systems, the same alignment of state-transition directors that biases post-collapse stabilization also collapses the energetic cost of switching between already-viable regulatory strategies. Where multiple modes of regulation remain simultaneously sustainable under the same constraint profile, transitions between them do not require reorganization, junctional instability, or renewed collapse.
 
-In such cases, regulatory strategies function as parallel interfaces rather than sequential outcomes. Engagement, withdrawal, dominance, or instrumental pro-sociality may be activated or suspended rapidly in response to environmental affordance—particularly the presence or absence of extractable objects—without loss of coherence or disruption of self-reference.
+In such cases, regulatory strategies function as parallel interfaces rather than sequential outcomes. Engagement, withdrawal, dominance, or instrumental pro-sociality may be activated or suspended rapidly in response to environmental affordance - particularly the presence or absence of extractable objects - without loss of coherence or disruption of self-reference.
 
 This capacity reflects transition efficiency, not fragmentation. The system does not reconstitute itself when switching; it selects among pre-stabilized interfaces whose availability is maintained by the same underlying director alignment.
 
@@ -44,7 +44,7 @@ This principle clarifies why certain stabilization strategies emerge late, rarel
 
 ### Self-Scaling Capacity
 
-Self-scaling capacity refers to a system’s ability to tolerate asymmetry by up-regulating self-reference under threat without loss of coherence. It governs whether elevation of the self—rather than reduction of exposure—can function as a viable regulatory strategy.
+Self-scaling capacity refers to a system’s ability to tolerate asymmetry by up-regulating self-reference under threat without loss of coherence. It governs whether elevation of the self, rather than reduction of exposure, can function as a viable regulatory strategy.
 
 High self-scaling capacity allows stabilization through hierarchy, dominance, or entitlement by enlarging the self as a reference frame. Where this capacity is available, shame-based collapse is less likely to force withdrawal or narrative fixation. Where it is unavailable, attempts at power-based stabilization rapidly destabilize or fail.
 
@@ -54,7 +54,7 @@ Although self-scaling capacity is most readily observed in situations of direct 
 
 ### Coercive Capacity
 
-Coercive capacity refers to the availability of force—behavioral, social, or structural—as a means of regulating exposure by constraining the environment rather than adapting to it. It includes not only physical aggression, but any reliable capacity to impose limits, enforce outcomes, or shape external conditions.
+Coercive capacity refers to the availability of force (behavioral, social, or structural) as a means of regulating exposure by constraining the environment rather than adapting to it. It includes not only physical aggression, but any reliable capacity to impose limits, enforce outcomes, or shape external conditions.
 
 When coercive capacity is available, power-based stabilization becomes energetically efficient. When it is unavailable, punished, or too costly to deploy, stabilization must occur through withdrawal, narrative restructuring, or internal containment.
 
@@ -66,7 +66,7 @@ Error intolerance refers to a system’s capacity to sustain ambiguity, unresolv
 
 High error intolerance biases reorganization toward rigid narrative locks, delusional coherence, or psychotic repair, where ambiguity is eliminated rather than managed. Low error intolerance permits provisional narratives, partial detachment, and flexible stabilization at the cost of increased exposure.
 
-One common manifestation of high error intolerance is narrative inelasticity: resistance to revising explanatory coherence in response to disconfirming external input. Under sufficient load, contradiction does not prompt narrative update but instead triggers narrative hardening, inversion, or dismissal. To external observers—particularly envied objects—this resistance may appear indistinguishable from delusion. Structurally, however, reality testing remains intact; what fails is tolerance for unresolved discrepancy. Narrative inelasticity reflects enforced coherence under constraint rather than primary perceptual disturbance.
+One common manifestation of high error intolerance is narrative inelasticity: resistance to revising explanatory coherence in response to disconfirming external input. Under sufficient load, contradiction does not prompt narrative update but instead triggers narrative hardening, inversion, or dismissal. To external observers - particularly envied objects - this resistance may appear indistinguishable from delusion. Structurally, however, reality testing remains intact; what fails is tolerance for unresolved discrepancy. Narrative inelasticity reflects enforced coherence under constraint rather than primary perceptual disturbance.
 
 Low error intolerance does not imply comfort, emotional ease, or reduced cost; it reflects the capacity to remain exposed to unresolved discrepancy without imposing premature coherence.
 
@@ -78,7 +78,7 @@ While the directors above constrain which forms of stabilization are viable at t
 
 Systems exposed to destabilizing contradiction do not respond through a single defensive mechanism. Prior to collapse, multiple orthogonal pathways exist through which mortification may be avoided, deferred, or redistributed. These pathways differ in energetic cost, reliability, and structural consequence, and their availability is determined by environmental affordance, regulatory capacity, and exposure constraints rather than preference or intent.
 
-Narrative rigidity is therefore not a default response to threat, but one option among several, typically deployed only when alternative routes—such as spatial extrication, regulatory mode switching, dominance-based containment, or object reassignment—are unavailable, ineffective, or themselves mortifying. As exposure becomes unavoidable and collapse proximity increases, lower-cost pathways are exhausted first. Higher-cost mechanisms are engaged only under constraint. 
+Narrative rigidity is therefore not a default response to threat, but one option among several that is typically deployed only when alternative routes such as spatial extrication, regulatory mode switching, dominance-based containment, or object reassignment are unavailable, ineffective, or themselves mortifying. As exposure becomes unavoidable and collapse proximity increases, lower-cost pathways are exhausted first. Higher-cost mechanisms are engaged only under constraint. 
 
 Understanding narrative inelasticity requires situating it within this broader mortification-prevention space: as a late-stage coherence clamp that preserves continuity when exit, substitution, or detachment can no longer be achieved without destabilization.
 
@@ -131,7 +131,7 @@ Within the present framework, object scarcity can be formalized as a function of
 3.	Object tolerance — the degree to which external objects can withstand devaluation without disengaging, shaped by their own structural cohesion, boundaries, and alternative supports.
 4.	Replacement availability — the density of viable alternative objects within the system’s regulatory ecology.
 
-Variation in object scarcity across otherwise comparable systems reflects not only differences in devaluation amplitude and object tolerance, but also differences in the precision with which devaluation can be titrated relative to object-specific withdrawal thresholds. This precision—here termed devaluation calibration capacity—describes a system’s ability to apply negative regulatory pressure without precipitating disengagement. Where this capacity is low, devaluation overshoots withdrawal thresholds, accelerating object loss and scarcity. Where it is high, regulatory pressure may be sustained within tolerable limits, preserving object availability under continued envy activation.
+Variation in object scarcity across otherwise comparable systems reflects not only differences in devaluation amplitude and object tolerance, but also differences in the precision with which devaluation can be titrated relative to object-specific withdrawal thresholds. This precision, here termed devaluation calibration capacity, describes a system’s ability to apply negative regulatory pressure without precipitating disengagement. Where this capacity is low, devaluation overshoots withdrawal thresholds, accelerating object loss and scarcity. Where it is high, regulatory pressure may be sustained within tolerable limits, preserving object availability under continued envy activation.
 
 Taken together, these factors determine the effective size and stability of the system’s object pool. Chronic object scarcity emerges not simply from the loss of objects, but from a persistent mismatch between devaluation amplitude and object tolerance, compounded by limited replacement availability. Systems that repeatedly overshoot devaluation thresholds or operate within sparse object ecologies experience accelerated object loss, shortened object half-life, and recurrent scarcity phases.
 
