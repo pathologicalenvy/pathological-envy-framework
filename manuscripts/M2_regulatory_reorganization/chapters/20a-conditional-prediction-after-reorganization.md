@@ -2,7 +2,7 @@ Chapter Twenty
 
 # Conditional Prediction After Reorganization
 
-Prediction within this framework does not concern destiny, identity, or permanence. It concerns conditional expectation. Once reorganization has occurred, future behavior becomes more legible—not because the system is fixed, but because stabilization constrains the range of viable responses under recurring conditions.
+Prediction within this framework does not concern destiny, identity, or permanence. It concerns conditional expectation. Once reorganization has occurred, future behavior becomes more legible - not because the system is fixed, but because stabilization constrains the range of viable responses under recurring conditions.
 
 Prediction here is therefore structural rather than teleological. It does not assert what must occur. It specifies what is likely to recur given unchanged constraints.
 
