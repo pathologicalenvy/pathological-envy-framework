@@ -4,7 +4,7 @@ Chapter Ten
 
 Truth is not inherently stabilizing.
 
-Within ordinary regulatory ranges, fidelity to fact supports prediction, coordination, and learning. Under those conditions, accuracy reduces uncertainty and improves outcome expectancy. However, once regulatory capacity is exceeded—particularly under exposure-driven shame—truth ceases to function as a neutral informational input. It becomes a cost amplifier.
+Within ordinary regulatory ranges, fidelity to fact supports prediction, coordination, and learning. Under those conditions, accuracy reduces uncertainty and improves outcome expectancy. However, once regulatory capacity is exceeded, particularly under exposure-driven shame, truth ceases to function as a neutral informational input. It becomes a cost amplifier.
 
 The critical shift occurs when accurate representation of events, motives, or outcomes would require the system to tolerate a level of exposure that exceeds available containment. At that point, truth no longer contributes to regulation. It destabilizes it.
 
@@ -180,11 +180,11 @@ Importantly, epistemic indeterminacy should not be understood as deception, evas
 
 This mechanism explains a class of interactions in which questions appear to be answered but no information is transmitted; where challenges are met with elaboration that increases rather than reduces uncertainty; and where language remains active while reference dissolves. From the outside, such exchanges may appear circular, obstructive, or intentionally confusing. Structurally, they reflect a system in which the intake of determinate facts has become incompatible with coherence preservation.
 
-Epistemic indeterminacy thus represents a late-stage internal stabilization within narrative lock. It preserves regulation by destabilizing the epistemic interface itself. When even this mechanism fails—when ambiguity leaks despite deferral, or when interpretive suspension no longer prevents exposure—stabilization must proceed through spatial expansion, environmental action, or non-convergent repair, as examined in the sections that follow.
+Epistemic indeterminacy thus represents a late-stage internal stabilization within narrative lock. It preserves regulation by destabilizing the epistemic interface itself. When even this mechanism fails - when ambiguity leaks despite deferral, or when interpretive suspension no longer prevents exposure - stabilization must proceed through spatial expansion, environmental action, or non-convergent repair, as examined in the sections that follow.
 
 ### Local Regulatory Fact-Reconstruction: Mortification Deferral
 
-In its local form, regulatory fact-reconstruction operates in the presence of a specific, regulatorily bound object. Proximity—physical, relational, or symbolic—matters.
+In its local form, regulatory fact-reconstruction operates in the presence of a specific, regulatorily bound object. Proximity (physical, relational, symbolic) matters.
 
 Here, reconstruction serves mortification deferral. The system modifies representations of events, intentions, or outcomes to prevent immediate shame collapse in relation to that object. This may preserve proximity, maintain functional interaction, or prevent abrupt loss.
 
@@ -196,7 +196,7 @@ As long as object proximity remains viable, local reconstruction is preferred. I
 
 ### Non-Local Regulatory Fact-Reconstruction: Ambiguity Collapse
 
-When object-local reconstruction fails—due to withdrawal, silence, loss of access, or excessive exposure—the system may abandon locality altogether. Reconstruction expands outward, targeting the environment, social field, or explanatory frame as a whole.
+When object-local reconstruction fails due to withdrawal, silence, loss of access, or excessive exposure, the system may abandon locality altogether. Reconstruction expands outward, targeting the environment, social field, or explanatory frame as a whole.
 
 In this non-local mode, the purpose shifts. The primary aim is no longer mortification deferral, but ambiguity collapse.
 
@@ -231,4 +231,4 @@ Regulatory fact-reconstruction is a necessary and predictable response to exposu
 
 Narrative lock represents the automation of this process. Paranoia represents its expansion. Psychotic repair represents its failure.
 
-Understanding reconstruction as stabilization without resolution preserves explanatory continuity across interpersonal rigidity, ecological certainty, and psychotic outcomes—without moralization, reduction, or diagnostic overreach.
+Understanding reconstruction as stabilization without resolution preserves explanatory continuity across interpersonal rigidity, ecological certainty, and psychotic outcomes without moralization, reduction, or diagnostic overreach.
