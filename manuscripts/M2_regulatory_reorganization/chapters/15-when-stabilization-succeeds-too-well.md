@@ -6,13 +6,13 @@ Stabilization mechanisms are typically evaluated by their ability to suppress ov
 
 This chapter addresses one such case: the dyadic failure mode of PM-OCAC mythologization under exclusivity. Here, destabilization does not arise from renewed envy, loss of access, or regulatory exhaustion. It emerges when stabilization functions too effectively, inducing symmetry in a relational field where inferiority safety depends on asymmetry remaining intact.
 
-The resulting behaviors are frequently misclassified—most often as “quiet borderline” dynamics or late-onset affective dysregulation. In reality, they represent a distinct and structurally predictable consequence of successful envy stabilization encountering dyadic constraint.
+The resulting behaviors are frequently misclassified - most often as “quiet borderline” dynamics or late-onset affective dysregulation. In reality, they represent a distinct and structurally predictable consequence of successful envy stabilization encountering dyadic constraint.
 
 ### From Individual Stabilization to Dyadic Geometry
 
 PM-OCAC mythologization, as described in earlier chapters, is a viable post-collapse configuration. It stabilizes envy by redirecting regulatory load into upward asymmetry, transforming the envied object into a mythologized figure whose superiority renders inferiority safe. So long as access remains discretionary and evaluation remains absent, the structure maintains coherence without externalization or dominance.
 
-Crucially, this configuration is described at the level of the individual structure. Its stability presumes a field in which asymmetry is externally supported—by distance, scarcity, ambiguity, or non-exclusive access. When these conditions change, the geometry of regulation changes with them.
+Crucially, this configuration is described at the level of the individual structure. Its stability presumes a field in which asymmetry is externally supported by distance, scarcity, ambiguity, or non-exclusive access. When these conditions change, the geometry of regulation changes with them.
 
 Exclusive dyads remove many of the ambient supports that previously maintained asymmetry. Access becomes guaranteed rather than inferred. Presence becomes constant rather than selective. Permission is no longer something to be detected; it is assumed. These shifts do not immediately destabilize PM-OCAC structures. Instead, they initiate a slow transformation in the relational field that will later prove decisive.
 
@@ -24,7 +24,7 @@ First, the object must possess demonstrable superiority in at least one identity
 
 Second, the object’s superiority must be asymmetrically extensible. The object must appear as a more fully realized version of a path the structure recognizes as plausible, even if unrealized. This preserves inferiority as chosen rather than imposed. Objects whose superiority feels alien, arbitrary, or unreachable cannot be mythologized safely and instead provoke resentment or disengagement.
 
-Third, the object must exhibit multi-domain surplus. Superiority confined to a single axis risks role inversion, mentoring, or correction. Polymathy—across physical, cognitive, symbolic, or social domains—maintains myth coherence by preventing the structure from occupying a compensatory position.
+Third, the object must exhibit multi-domain surplus. Superiority confined to a single axis risks role inversion, mentoring, or correction. Polymathy - across physical, cognitive, symbolic, or social domains - maintains myth coherence by preventing the structure from occupying a compensatory position.
 
 Finally, the object must be recognition-compatible. The object must be capable of acknowledging the structure without becoming dependent on it. Warmth without need, presence without reliance, and recognition without symmetry are prerequisites. Objects who require caretaking, instruction, or emotional stabilization cannot be safely mythologized under PM-OCAC.
 
@@ -36,7 +36,7 @@ What unifies these constraints is not preference, admiration, or attachment styl
 
 PM-OCAC mythologized objects are therefore best understood not as idealized partners or aspirational figures, but as protective figures. Protection here does not imply caretaking, reassurance, or emotional soothing. It refers to the object’s capacity to prevent exposure-based mortification by maintaining decisive asymmetry under threat. The object must be able to absorb pressure without collapsing, deflect evaluation without requiring assistance, and deter intrusion without recruiting the structure into defensive symmetry.
 
-This requirement explains why mythologized objects frequently exhibit traits that appear “dangerous” or formidable: physical capability, strategic intelligence, social dominance, reputational force, or the ability to impose cost. These traits are not sought for excitement or control. They signal that the object can hold asymmetry without reliance. Conversely, objects who require protection, reassurance, or stabilization from the structure—regardless of warmth or admiration—cannot be safely mythologized, as they force role inversion and expose inferiority.
+This requirement explains why mythologized objects frequently exhibit traits that appear “dangerous” or formidable: physical capability, strategic intelligence, social dominance, reputational force, or the ability to impose cost. These traits are not sought for excitement or control. They signal that the object can hold asymmetry without reliance. Conversely, objects who require protection, reassurance, or stabilization from the structure, regardless of warmth or admiration, cannot be safely mythologized, as they force role inversion and expose inferiority.
 
 Material resources such as wealth only function as stabilizing attributes when they are deployable as protection within the structure’s lived environment. Abstract wealth, inherited status, or passive resources that do not translate into boundary enforcement, insulation, or deterrence fail to buffer inferiority and are frequently abandoned in favor of less resourced but more protective objects. The ideal mythologized object is therefore not the most powerful possible object, but the most protective possible object along the axis where inferiority would otherwise become lethal.
 
@@ -56,13 +56,13 @@ The erosion of asymmetry in exclusive PM-OCAC dyads is not the result of manipul
 
 Over time, these traits invite the mythologized object into symmetry. The object mirrors more. Authority is deferred back. The relational field flattens. What was once an upward orientation becomes mutuality.
 
-This process is best described as symmetry drift—a gradual, unintentional movement toward parity produced by successful regulation rather than its failure. Neither party need intend this outcome. In many cases, both experience it as relational improvement until its consequences emerge.
+This process is best described as symmetry drift: a gradual, unintentional movement toward parity produced by successful regulation rather than its failure. Neither party need intend this outcome. In many cases, both experience it as relational improvement until its consequences emerge.
 
 ### The Symmetry-Induction Paradox
 
 The central paradox of PM-OCAC dyads under exclusivity is this: escalation occurs not when asymmetry is lost through neglect or dominance, but when symmetry is successfully induced.
 
-As long as inferiority remains optional and buffered, the structure remains stable. Escalation becomes necessary only when symmetry becomes unavoidable—when the object treats the structure as an equal participant in decision-making, emotional containment, or responsibility.
+As long as inferiority remains optional and buffered, the structure remains stable. Escalation becomes necessary only when symmetry becomes unavoidable - when the object treats the structure as an equal participant in decision-making, emotional containment, or responsibility.
 
 At this point, internal regulation is no longer sufficient. Interpretation cannot restore geometry. The structure must act on the dyad to re-differentiate positions.
 
@@ -72,7 +72,7 @@ This is why escalation often appears late, abrupt, and out of character. It is n
 
 In this context, behaviors commonly labeled as “acting out” serve a specific regulatory function. They introduce friction into a relational field that has become too smooth. Conflict, argument, or provocation forces a response that reestablishes hierarchy.
 
-Any response from the object that clearly reasserts decisional authority, emotional steadiness, or superiority—whether firm, dismissive, or directive—collapses symmetry and immediately stabilizes the structure. Escalation ceases not because reassurance was provided, but because geometry was corrected.
+Any response from the object that clearly reasserts decisional authority, emotional steadiness, or superiority (whether firm, dismissive, or directive) collapses symmetry and immediately stabilizes the structure. Escalation ceases not because reassurance was provided, but because geometry was corrected.
 
 This distinguishes PM-OCAC escalation from borderline dysregulation. Borderline escalation seeks contact, reassurance, or fusion. PM-OCAC escalation seeks differentiation. It ends as soon as asymmetry is restored, often without narrative repair or emotional processing.
 
@@ -82,7 +82,7 @@ Overt acting out is not the only asymmetry-restoration strategy available to PM-
 
 These include deferring decisions unnecessarily, staging situations that highlight the object’s competence, expressing uncertainty that invites leadership, or withdrawing from authority roles the object has implicitly offered. Each maneuver serves the same function: re-elevating the object without provoking confrontation.
 
-Only when these subtler strategies fail—when the object continues to mirror, defer, or equalize—does overt escalation become necessary.
+Only when these subtler strategies fail - when the object continues to mirror, defer, or equalize - does overt escalation become necessary.
 
 ### Why “Quiet Borderline” Appears Here
 
@@ -90,7 +90,7 @@ Clinically, these dynamics are often misclassified as “quiet borderline.” Th
 
 Structurally, however, the mechanisms diverge. Borderline escalation reflects low tolerance for attachment ambiguity and discharges affect immediately. PM-OCAC escalation reflects high tolerance for internal strain and emerges only after symmetry threatens inferiority safety.
 
-What appears as “quiet borderline” is more accurately understood as deferred symmetry hyperreflection—a consequence of an introverted state-transition director routing regulation internally until correction becomes unavoidable.
+What appears as “quiet borderline” is more accurately understood as deferred symmetry hyperreflection: a consequence of an introverted state-transition director routing regulation internally until correction becomes unavoidable.
 
 ### Stability Conditions for PM-OCAC Dyads
 
@@ -102,7 +102,7 @@ When asymmetry erodes, correction becomes inevitable.
 
 ### Why This Failure Mode Is Often Missed
 
-This pathology is subterranean because it hides inside apparent health. The traits that induce symmetry drift—competence, calm, non-neediness—are typically read as markers of secure functioning. Destabilization appears only after long periods of apparent success, and escalation resolves abruptly once geometry is restored.
+This pathology is subterranean because it hides inside apparent health. The traits that induce symmetry drift (e.g. competence, calm, non-neediness) are typically read as markers of secure functioning. Destabilization appears only after long periods of apparent success, and escalation resolves abruptly once geometry is restored.
 
 Without a model that distinguishes symmetry tolerance from symmetry safety, these dynamics are easily misread as inexplicable volatility or latent personality pathology.
 
