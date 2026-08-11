@@ -17,7 +17,7 @@ Importantly, schizoid stabilization is not a state of confusion or disorganizati
 
 This configuration is verbally quiet because nothing requires articulation. Silence reflects disengagement rather than containment. The system does not withhold speech to avoid feedback; it does not generate speech because speech no longer serves a regulatory function.
 
-Schizoid stabilization is available only where withdrawal is viable. When the system can reduce salience without forfeiting coherence or survival, schizoid convergence represents a low-cost solution. When withdrawal is blocked—by dependence, shared environments, irreversible autonomy loss, or sustained salience—other configurations must be selected.
+Schizoid stabilization is available only where withdrawal is viable. When the system can reduce salience without forfeiting coherence or survival, schizoid convergence represents a low-cost solution. When withdrawal is blocked by dependence, shared environments, irreversible autonomy loss, or sustained salience, other configurations must be selected.
 
 ### Stabilization Through Meaning
 
@@ -55,7 +55,7 @@ Once narrative stabilization has ossified and interactive regulation no longer p
 
 Corrective overwriting does not seek acknowledgment, agreement, or response. Its regulatory efficacy is independent of feedback. Relief occurs because ambiguity is removed at the level of material reality: there is no longer more than one acceptable state of affairs. The environment itself becomes the stabilizing surface.
 
-In shared spaces, this often appears as the undoing or redoing of the object’s actions—cleaning after cleaning, reorganizing after reorganization, correcting completed tasks, or refining outcomes that were already sufficient. Functionally, these acts nullify the object’s agency without requiring confrontation. The object’s contribution does not persist long enough to remain salient.
+In shared spaces, this often appears as the undoing or redoing of the object’s actions: cleaning after cleaning, reorganizing after reorganization, correcting completed tasks, or refining outcomes that were already sufficient. Functionally, these acts nullify the object’s agency without requiring confrontation. The object’s contribution does not persist long enough to remain salient.
 
 This mechanism simultaneously collapses ambiguity and denies autonomy. By overwriting the object’s environmental impact, the system establishes itself as the final adjudicator of adequacy. What counts as “done,” “correct,” or “acceptable” is no longer negotiated or inferred; it is instantiated. Hierarchy is expressed materially rather than asserted interpersonally.
 
@@ -77,7 +77,7 @@ Functionally, symbolic corrective overwriting collapses ambiguity and autonomy s
 
 Despite its verbal surface, this configuration should not be confused with extroverted regulation or triangulation. Those depend on resonance or response routing; symbolic corrective overwriting does not. It is best understood as a feedback-independent, execution-based stabilization operating at the acoustic–symbolic layer.
 
-Corrective overwriting thus marks a late-stage, low-power convergence: interaction has failed, narrative has frozen, and regulation persists by narrowing the environment until ambiguity is no longer encountered. When even this strategy becomes insufficient—due to escalating error intolerance, environmental volatility, or repeated disruption—systems may be forced toward more rigid or non-convergent reorganizations, which will be addressed next.
+Corrective overwriting thus marks a late-stage, low-power convergence: interaction has failed, narrative has frozen, and regulation persists by narrowing the environment until ambiguity is no longer encountered. When even this strategy becomes insufficient due to escalating error intolerance, environmental volatility, or repeated disruption, systems may be forced toward more rigid or non-convergent reorganizations, which will be addressed next.
 
 ### Durability and Flexibility
 
@@ -105,7 +105,7 @@ Once consolidated, oscillation diminishes. The system becomes predictable, thoug
 
 ### From Low-Power Stabilization to Failure
 
-When neither narrative nor avoidance can contain exposure—due to extreme error intolerance, environmental volatility, or repeated destabilization—reorganization may fail to converge. In such cases, emergency repair or non-convergent architectures emerge.
+When neither narrative nor avoidance can contain exposure - due to extreme error intolerance, environmental volatility, or repeated destabilization - reorganization may fail to converge. In such cases, emergency repair or non-convergent architectures emerge.
 
 These failure modes are examined in the following chapter.
 
