@@ -2,7 +2,7 @@ Chapter One
 
 # What Regulatory Failure Does Not Explain
 
-Contemporary theories of personality describe structure. Contemporary theories of trauma describe injury. Contemporary theories of psychopathology describe patterns of dysfunction. What remains insufficiently explained is what happens when structure itself collapses—and why the reorganizations that follow are structured rather than arbitrary.
+Contemporary theories of personality describe structure. Contemporary theories of trauma describe injury. Contemporary theories of psychopathology describe patterns of dysfunction. What remains insufficiently explained is what happens when structure itself collapses - and why the reorganizations that follow are structured rather than arbitrary.
 
 This gap persists across schools of thought. Trait models describe stability but struggle with sudden transformation. Developmental models describe formation but struggle with rupture. Diagnostic systems describe outcomes but do not account for the processes that produce them. As a result, collapse is often treated as anomaly, pathology, or exception rather than as a structural event with lawful consequences.
 
@@ -25,7 +25,7 @@ Individuals exposed to similar classes of mortification do not reorganize unifor
 
 Yet existing frameworks either treat these outcomes as independent disorders or attribute divergence to unexamined background variables without specifying mechanism.
 
-What is missing is a unifying account of post-collapse divergence—one that explains why outcomes cluster, how they relate, and under what conditions they arise.
+What is still missing is a unifying account of post-collapse divergence that explains why outcomes cluster, how they relate, and under what conditions they arise.
 
 ### Static Labels, Dynamic Failures
 
@@ -61,5 +61,5 @@ The aim of this manuscript is to provide that account.
 
 It does not propose a new taxonomy. It does not replace diagnostic systems. It does not moralize outcomes or promise closure. It offers a structural framework for understanding how systems reorganize after collapse, why they diverge predictably, and how stabilized configurations become conditionally legible over time.
 
-What follows is an attempt to close the remaining gap—not by expanding explanation outward, but by tightening it inward.
+What follows is an attempt to close the remaining gap; not by expanding explanation outward, but by tightening it inward.
 
