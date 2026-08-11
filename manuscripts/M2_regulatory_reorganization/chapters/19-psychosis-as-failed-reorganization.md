@@ -2,7 +2,7 @@ Chapter Nineteen
 
 # Psychosis as Failed Reorganization
 
-Not all reorganizations converge. When no stabilization strategy can be sustained under constraint, coherence itself becomes unstable. Psychosis is treated here not as escalation, identity, or pathology in isolation, but as failed or emergency reorganization—a last attempt to impose coherence when no viable stabilization lock can consolidate.
+Not all reorganizations converge. When no stabilization strategy can be sustained under constraint, coherence itself becomes unstable. Psychosis is treated here not as escalation, identity, or pathology in isolation, but as failed or emergency reorganization: a last attempt to impose coherence when no viable stabilization lock can consolidate.
 
 This framing does not reduce psychosis to a symptom cluster. It situates psychosis within the same structural logic that governs all post-collapse outcomes, differing only in the failure to converge on a durable solution.
 
@@ -62,6 +62,6 @@ As with all configurations described here, persistence reflects comparative adva
 
 Understanding psychosis as failed reorganization completes the topology of post-collapse outcomes. Stabilization may converge through dominance, narrative closure, withdrawal, detachment, or emergency repair. It may also fail to converge entirely.
 
-With this map in place, the question of prediction can be addressed—not as destiny, but as conditional expectation under constraint.
+With this map in place, the question of prediction can be addressed - not as destiny, but as conditional expectation under constraint.
 
 The following chapter formalizes this claim.
