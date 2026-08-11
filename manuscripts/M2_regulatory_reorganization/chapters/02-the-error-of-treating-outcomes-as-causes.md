@@ -3,7 +3,7 @@ Chapter Two
 # The Error of Treating Outcomes as Causes
 
 
-Most prevailing models of personality presume stability. Whether framed in terms of traits, types, or disorders, personality is treated as an enduring configuration that persists across time and circumstance. Change, when acknowledged, is assumed to be incremental—an adjustment of parameters rather than a reconstitution of structure.
+Most prevailing models of personality presume stability. Whether framed in terms of traits, types, or disorders, personality is treated as an enduring configuration that persists across time and circumstance. Change, when acknowledged, is assumed to be incremental - an adjustment of parameters rather than a reconstitution of structure.
 This assumption holds under conditions of continuity. It fails under conditions of collapse.
 
 ### The Stability Assumption
