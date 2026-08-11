@@ -74,7 +74,7 @@ This also explains why power-based configurations preferentially seek discretion
 
 ### Domain-Bounded Symmetry and Tolerated Admiration
 
-Power-based stabilization does not require superiority across all domains. It requires control within active or identity-salient regulatory domains. Asymmetry of competence outside those domains can be tolerated—even respected—without destabilization.
+Power-based stabilization does not require superiority across all domains. It requires control within active or identity-salient regulatory domains. Asymmetry of competence outside those domains can be tolerated - even respected - without destabilization.
 
 This produces a specific and often misunderstood pattern: domain-bounded symmetry.
 
@@ -82,7 +82,7 @@ When another agent demonstrates exceptional competence in a domain that is adjac
 
 In such cases, admiration does not imply submission. Respect does not imply dependence. The system remains sovereign because no mechanism exists for that competence to impose constraint.
 
-Destabilization occurs only when admiration drifts toward potential authority—when repeated exposure, domain proximity, or salience raises the possibility that competence could mature into arbitration, influence, or governance without a corresponding dominance or containment pathway.
+Destabilization occurs only when admiration drifts toward potential authority: when repeated exposure, domain proximity, or salience raises the possibility that competence could mature into arbitration, influence, or governance without a corresponding dominance or containment pathway.
 
 ### Latent Constraint and Preemptive Regulation
 
