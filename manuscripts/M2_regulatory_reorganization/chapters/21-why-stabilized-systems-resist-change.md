@@ -4,7 +4,7 @@ Chapter Twenty-One
 
 This framework does not aspire to total explanation. It aspires to structural sufficiency within a defined domain: the reorganization of systems following mortification under constraint. The claims advanced here are bounded, conditional, and mechanistic. They do not extend beyond what the architecture requires.
 
-This closing chapter specifies what the framework does not claim—not as a retreat, but as a condition of rigor.
+This closing chapter specifies what the framework does not claim - not as a retreat, but as a condition of rigor.
 
 ### What the Framework Claims
 
