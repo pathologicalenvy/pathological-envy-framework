@@ -4,9 +4,9 @@ Chapter Fourteen
 
 The preceding chapter established fixation-based stabilization as a viable regulatory solution under constraint and formalized pre-mortification object-centered ambiguity capture (PM-OCAC) as a mechanism by which regulation can complete without dominance, avoidance, or narrative reconstruction. What remained unresolved was the architectural status of this solution. Fixation explains how ambiguity is collapsed; it does not, by itself, specify what kind of system emerges once collapse stabilizes.
 
-This chapter addresses that gap. It demonstrates that PM-OCAC—specifically in its value-fixation, upward-asymmetry form (PM-OCAC (VF))—constitutes a distinct post-collapse configuration: a non-power-locked multiplex stabilization architecture. This architecture is capable of both internal and external regulatory completion while remaining structurally excluded from dominance-based extraction, coercion, or narrative control. Its quietness is not an absence of structure. It is evidence of a different kind of organization.
+This chapter addresses that gap. It demonstrates that PM-OCAC - specifically in its value-fixation, upward-asymmetry form (PM-OCAC (VF)) - constitutes a distinct post-collapse configuration: a non-power-locked multiplex stabilization architecture. This architecture is capable of both internal and external regulatory completion while remaining structurally excluded from dominance-based extraction, coercion, or narrative control. Its quietness is not an absence of structure. It is evidence of a different kind of organization.
 
-Fixation, as defined in the previous chapter, captures ambiguity into a stable symbolic role. When PM-OCAC (VF)—the value-fixation (mythologization) subtype—is deployed, completion surfaces then terminate regulatory load. Quiescence marks success. Repair operations preserve viability under threat. At the architectural level, these elements do not function as a linear sequence. They coexist as a multiplex routing system in which regulatory load can be absorbed, terminated, or rerouted across multiple internal and external surfaces without invoking rivalry, coercion, or confrontation.
+Fixation, as defined in the previous chapter, captures ambiguity into a stable symbolic role. When PM-OCAC (VF), the value-fixation (mythologization) subtype, is deployed, completion surfaces then terminate regulatory load. Quiescence marks success. Repair operations preserve viability under threat. At the architectural level, these elements do not function as a linear sequence. They coexist as a multiplex routing system in which regulatory load can be absorbed, terminated, or rerouted across multiple internal and external surfaces without invoking rivalry, coercion, or confrontation.
 
 This is the defining feature of PM-OCAC (VF) multiplexing: regulation is solved without winning, without extracting from others, and without forcing asymmetry downward. The system does not seek dominance. It seeks termination.
 
@@ -14,7 +14,7 @@ This is the defining feature of PM-OCAC (VF) multiplexing: regulation is solved 
 
 Environmental conditions do not create this architecture; they reveal its viability.
 
-Developmental contexts characterized by saturated hierarchies—where attention, prestige, protection, or rescue are already occupied—select against competitive solutions. In such environments, contesting hierarchy is metabolically expensive and exposure-heavy. Rivalry destabilizes the self without reorganizing the field.
+Developmental contexts characterized by saturated hierarchies where attention, prestige, protection, or rescue are already occupied select against competitive solutions. In such environments, contesting hierarchy is metabolically expensive and exposure-heavy. Rivalry destabilizes the self without reorganizing the field.
 
 Under these constraints, upward asymmetry becomes the safest regulatory option. Proximity to value stabilizes more reliably than competition for it. Hierarchy is treated as fixed rather than negotiable. Regulation is achieved not by altering rank, but by anchoring beneath it.
 
@@ -26,7 +26,7 @@ Upward asymmetry stabilization is pathological not because it is hostile, manipu
 
 A symmetric relationship would require dismantling the very hierarchy that terminates regulation. Equality reintroduces ambiguity. Ambiguity reactivates mortification risk. For stability to hold, the object must remain elevated, unreal, or unreachable.
 
-This is why PM-OCAC structures may appear warm, relational, or attentive while remaining structurally incompatible with intimacy. The pathology lies not in intent, but in necessity. The object must remain a completion surface—not a partner.
+This is why PM-OCAC structures may appear warm, relational, or attentive while remaining structurally incompatible with intimacy. The pathology lies not in intent, but in necessity. The object must remain a completion surface - not a partner.
 
 ### The Mirror of the Classic Envy Cycle
 
