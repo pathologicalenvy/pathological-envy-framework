@@ -18,7 +18,7 @@ Much of the literature on post-collapse organization implicitly assumes that reg
 
 This premise does not follow from the constraints described in earlier chapters.
 
-Regulation requires completion, not reciprocity. Completion occurs wherever regulatory load can be absorbed without return. Interpersonal objects are one such surface, but they are not the only one—and they are not always the cheapest.
+Regulation requires completion, not reciprocity. Completion occurs wherever regulatory load can be absorbed without return. Interpersonal objects are one such surface, but they are not the only one - and they are not always the cheapest.
 
 Where interpersonal engagement introduces exposure, shame amplification, or symmetry demands, routing regulation through people becomes costly. If alternative surfaces exist that can complete regulation without those costs, systems will converge on them instead.
 
@@ -73,7 +73,7 @@ Avoidant systems destabilize under prolonged isolation. Surface-primary systems 
 
 A characteristic feature of surface-primary stabilization is clean abandonment of obsolete surfaces.
 
-When a surface no longer completes regulation—because its expected relief probability (ERP) decays—it is dropped without mourning, grievance, or identity disruption. The surface was never an object of attachment. It was a regulatory substrate.
+When a surface no longer completes regulation - because its expected relief probability (ERP) decays - it is dropped without mourning, grievance, or identity disruption. The surface was never an object of attachment. It was a regulatory substrate.
 
 This process is frequently misread as anhedonia or loss of motivation. Structurally, it is neither. The system is not losing interest; it is recognizing obsolescence.
 
