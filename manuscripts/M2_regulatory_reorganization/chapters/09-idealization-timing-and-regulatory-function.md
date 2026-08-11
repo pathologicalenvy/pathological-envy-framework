@@ -6,7 +6,7 @@ Clinical accounts of idealization have long served an important explanatory role
 
 Within regulatory models of envy and collapse, the word idealization has often functioned as an umbrella. It has been used to describe early warmth toward an object, sudden reversals into devaluation, prolonged symbolic fixation after disengagement, and even the absence of overt hostility. These phenomena are not identical in function, timing, or dependency on feedback. Treating them as a single mechanism obscures the underlying control logic.
 
-This chapter separates the components that have been compressed into idealization and situates each within the regulatory timeline. In doing so, it preserves idealization as a meaningful concept while clarifying which phenomena it does—and does not—describe.
+This chapter separates the components that have been compressed into idealization and situates each within the regulatory timeline. In doing so, it preserves idealization as a meaningful concept while clarifying which phenomena it does and does not describe.
 
 ### Symmetry-Capable Objects and the Origin of Comparative Threat
 
@@ -20,7 +20,7 @@ Importantly, symmetry capability precedes any decision about dominance, inferior
 
 Once a symmetry-capable object is detected, asymmetry becomes required for regulation to complete. This requirement is mechanical, not motivational. The system does not decide to dominate; it must eliminate symmetry to reduce exposure.
 
-However, asymmetry is not always immediately available. Each potential asymmetry plane—skill, status, access, narrative authority, institutional position—carries costs. Some planes are shame-contaminated. Others risk retaliation, loss of access, or irreversible exposure. Asymmetry therefore presents as a solvability problem, not an impulse.
+However, asymmetry is not always immediately available. Each potential asymmetry plane - skill, status, access, narrative authority, institutional position - carries costs. Some planes are shame-contaminated. Others risk retaliation, loss of access, or irreversible exposure. Asymmetry therefore presents as a solvability problem, not an impulse.
 
 The system must identify an asymmetry plane that is viable under current constraints. Until such a plane is identified, asymmetry remains required but unsolved.
 
@@ -36,7 +36,7 @@ This condition persists only for the duration required to identify a viable asym
 
 ### Why Asymmetry Stasis Appears as Idealization
 
-The behaviors that emerge during asymmetry stasis—politeness, interest, encouragement, flattery, apparent admiration—closely resemble what has historically been described as idealization. This resemblance is structural, not functional.
+The behaviors that emerge during asymmetry stasis such as politeness, interest, encouragement, flattery, and apparent admiration closely resemble what has historically been described as idealization. This resemblance is structural, not functional.
 
 These behaviors are forced by constraint. They minimize threat, preserve access, and maintain legibility of the object while asymmetry remains unresolved. They do not reflect symbolic elevation or positive valuation. They reflect delay under pressure.
 
@@ -70,7 +70,7 @@ A system deploying a symmetry hyperreflection is inherently unstable. It collaps
 
 HFP is not triggered by disappointment, conflict, criticism, or unmet expectation. It is triggered by reciprocity.
 
-When the object ceases to function as a passive surface and instead responds as a symmetrical participant—by returning care without deference, assuming mutuality, naming reciprocity, or engaging as an equal regulator—the regulatory demand changes. Symmetry is no longer externalized. It must be tolerated internally.
+When the object ceases to function as a passive surface and instead responds as a symmetrical participant by returning care without deference, assuming mutuality, naming reciprocity, or engaging as an equal regulator, the regulatory demand changes. Symmetry is no longer externalized. It must be tolerated internally.
 
 At this point, the construct fails.
 
@@ -114,7 +114,7 @@ Environment shapes which planes are visible, how costly they are to test, and ho
 
 ### Asymmetry Injection as a Regulatory Operation
 
-When a symmetry-capable object has been detected and asymmetry is required, regulation ordinarily completes by traversing a viable asymmetry plane—skill, status, access, narrative authority, or institutional position. However, environments frequently constrain or delay access to such planes. Asymmetry may be required yet not immediately solvable.
+When a symmetry-capable object has been detected and asymmetry is required, regulation ordinarily completes by traversing a viable asymmetry plane - skill, status, access, narrative authority, or institutional position. However, environments frequently constrain or delay access to such planes. Asymmetry may be required yet not immediately solvable.
 
 In this interval, the system does not remain passive. It may deploy a distinct regulatory operation: asymmetry injection.
 
@@ -157,13 +157,13 @@ Repetition is not a mechanism of asymmetry injection. It is a diagnostic signal 
 
 Once an asymmetry injection successfully collapses symmetry, there is no regulatory incentive to repeat it. Repetition therefore indicates unresolved placement rather than insistence, emphasis, or affective intensity.
 
-When repetition is directed toward a single object—especially following minimal response, acknowledgment, or silence—it reflects retry logic under constraint. The system is not strengthening asymmetry; it is testing whether asymmetry has registered.
+When repetition is directed toward a single object, especially following minimal response, acknowledgment, or silence, it reflects retry logic under constraint. The system is not strengthening asymmetry; it is testing whether asymmetry has registered.
 
 The analytic value of repetition emerges only when read multi-axially: across object specificity, temporal spacing, vector stacking, and feedback sensitivity. Frequency across many objects reflects ecological norm-setting. Frequency toward one object reflects unresolved comparative threat.
 
 ### Feedback, Failure, and Abandonment
 
-Asymmetry injection is feedback-dependent. Its success is determined not by intention or clarity, but by whether the object’s behavior reflects altered positioning—downgrading, disengagement, or acknowledged non-reciprocity.
+Asymmetry injection is feedback-dependent. Its success is determined not by intention or clarity, but by whether the object’s behavior reflects altered positioning - downgrading, disengagement, or acknowledged non-reciprocity.
 
 Silence or downplaying constitutes asymmetry rejection, not because it challenges the signal, but because it provides no confirmation that symmetry has collapsed. In the absence of usable feedback, Expected Relief Probability does not increase, and injection remains unsolved.
 
@@ -187,11 +187,11 @@ Confusing these operations collapses opposite regulatory goals into a single beh
 
 Asymmetry injection represents the final attempt to resolve comparative threat without structural traversal. It is neither idealization nor exit. When injection fails repeatedly, delay itself becomes costly, and regulation must move on.
 
-At that point, the system can no longer remain in stasis. Rerouting, substitution, escalation, or crystallized stabilization become necessary—not because preference has changed, but because solvability has expired.
+At that point, the system can no longer remain in stasis. Rerouting, substitution, escalation, or crystallized stabilization become necessary - not because preference has changed, but because solvability has expired.
 
 ### When Solvability Fails: Rerouting, Substitution, and Delay
 
-When no viable asymmetry plane can be identified within tolerance limits, regulation must reroute. In some cases, asymmetry is sought in non-interpersonal domains—institutions, metrics, abstractions—where retaliation is impossible and latency is minimal. In others, escalation accelerates or grievance crystallizes.
+When no viable asymmetry plane can be identified within tolerance limits, regulation must reroute. In some cases, asymmetry is sought in non-interpersonal domains like institutions, metrics, or abstractions where retaliation is impossible and latency is minimal. In others, escalation accelerates or grievance crystallizes.
 
 These outcomes are not expressions of preference. They are consequences of prolonged unsolvability.
 
