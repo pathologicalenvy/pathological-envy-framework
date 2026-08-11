@@ -57,7 +57,7 @@ The framework does not compete with existing theories; it reorganizes their plac
 -	Trauma theories describe sources of collapse.
 -	Diagnostic systems describe stabilized outcomes.
 
-What has been missing is a theory of transition—how collapse yields divergent reorganizations under constraint.
+What has been missing is a theory of transition: how collapse yields divergent reorganizations under constraint.
 
 By supplying this transition logic, the framework integrates rather than replaces prior accounts.
 
