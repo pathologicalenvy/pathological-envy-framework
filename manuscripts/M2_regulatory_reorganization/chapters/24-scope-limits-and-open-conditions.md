@@ -37,7 +37,7 @@ Non-finality is a property of the model, not a caveat added after the fact.
 
 ### On Rarity and Extremes
 
-Certain outcomes described here—particularly non-convergent post-mortification reorganization—are rare. Their rarity reflects the extremity of conditions required for their formation, not their marginality within the framework.
+Certain outcomes described here, particularly non-convergent post-mortification reorganization, are rare. Their rarity reflects the extremity of conditions required for their formation, not their marginality within the framework.
 
 The framework includes these outcomes to remain complete at the edges, not to center them.
 
