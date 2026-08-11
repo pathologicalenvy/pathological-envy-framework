@@ -8,7 +8,7 @@ This chapter introduces pre-mortification object-centered ambiguity capture (PM-
 
 Fixation-based stabilization is not defined by affect. It may appear admiring, moral, fearful, resigned, or neutral. What unites these configurations is not emotional tone but mechanism: the replacement of iterative regulation with a frozen asymmetry that eliminates the need for further processing.
 
-Upward asymmetry stabilization—historically mislabeled as idealization or benign fantasy—is the most visible subtype of this strategy. For this reason, it serves as the primary worked example in this chapter. Other fixation-based routes are introduced later as parallel expressions of the same regulatory logic.
+Upward asymmetry stabilization (historically mislabeled as idealization or benign fantasy) is the most visible subtype of this strategy. For this reason, it serves as the primary worked example in this chapter. Other fixation-based routes are introduced later as parallel expressions of the same regulatory logic.
 
 ### Fixation as a Regulatory Operator
 
@@ -22,7 +22,7 @@ In PM-OCAC configurations, fixation is not a failure of disengagement. It is the
 
 Earlier chapters established that collapse necessitates reorganization, and that stabilization strategies are selected under constraint. Power-based solutions are effective when coercive capacity is available and when devaluative engagement is tolerable. But these conditions are not universal.
 
-For some configurations, dominance is prohibitively expensive. Active rivalry risks mortification. Devaluation threatens self-coherence. Proximal confrontation carries unacceptable exposure. In such systems, the standard envy solution—forcing asymmetry downward—cannot be deployed without destabilizing cost.
+For some configurations, dominance is prohibitively expensive. Active rivalry risks mortification. Devaluation threatens self-coherence. Proximal confrontation carries unacceptable exposure. In such systems, the standard envy solution- forcing asymmetry downward - cannot be deployed without destabilizing cost.
 
 When power is unavailable, regulation does not disappear. It reroutes.
 
@@ -34,7 +34,7 @@ For these systems, stabilization demands a solution that avoids rivalry entirely
 
 ### Frozen Hierarchy as a Regulatory Endpoint
 
-Upward asymmetry stabilization operates by freezing the object at symbolic altitude. The object is mythologized—not as distortion, but as mechanism. Mythologization collapses ambiguity once and permanently. The hierarchy is established, and with it, the regulatory question is answered.
+Upward asymmetry stabilization operates by freezing the object at symbolic altitude. The object is mythologized: not as distortion, but as mechanism. Mythologization collapses ambiguity once and permanently. The hierarchy is established, and with it, the regulatory question is answered.
 
 Where classic envy requires continuous ambiguity polling (“Where do I stand now?”), frozen hierarchy requires none. The answer is fixed: the object is above; proximity is sufficient. Regulation completes at the moment when the object is captured at peak symbolic value and rendered immune to ordinary reality testing.
 
@@ -42,7 +42,7 @@ This is not avoidance of reality. It is the replacement of reality with a stable
 
 ### Proximity Without Symmetry
 
-In this configuration, regulation completes through inclusion rather than control. Recognition, acknowledgment, or permitted proximity within the object’s symbolic field anchors stability. The system does not require continuous feedback—only periodic confirmation that the hierarchy remains intact.
+In this configuration, regulation completes through inclusion rather than control. Recognition, acknowledgment, or permitted proximity within the object’s symbolic field anchors stability. The system does not require continuous feedback - only periodic confirmation that the hierarchy remains intact.
 
 Disappearance is tolerable. Silence does not threaten regulation. What cannot be tolerated is symmetry. Mutuality collapses hierarchy. Desire directed back toward the self destabilizes the frozen configuration. Equality reintroduces ambiguity, and ambiguity reactivates mortification risk.
 
@@ -56,7 +56,7 @@ For fixation-based stabilization to recruit a real, accessible object without pr
 
 Symmetry hyperreflection is not specific to value fixation. It is a general interface maneuver available to all PM-OCAC fixations that recruit real, accessible objects operating under symmetry expectations. Fixations that complete through feedback-independent or unreachable surfaces do not require this maneuver, as asymmetry cannot be detected or resisted at the point of approach.
 
-Symmetry hyperreflection refers to the active deployment of symmetry-shaped signals—reciprocity, responsiveness, attunement, and apparent equivalence—for the sole purpose of enabling proximity without revealing regulatory asymmetry. It is not a desire for mutuality. It is a containment maneuver designed to prevent the object from detecting its impending role as a load-bearing surface.
+Symmetry hyperreflection refers to the active deployment of symmetry-shaped signals - reciprocity, responsiveness, attunement, and apparent equivalence - for the sole purpose of enabling proximity without revealing regulatory asymmetry. It is not a desire for mutuality. It is a containment maneuver designed to prevent the object from detecting its impending role as a load-bearing surface.
 
 Functionally, symmetry hyperreflection operates as a capture interface. It temporarily presents the dyad as symmetrical so that proximity can be established without triggering the object’s cost-detection systems. The object perceives a familiar, low-risk interactional geometry: balanced interest, legible intent, and non-extractive engagement. Permission is granted not because the object consents to regulation, but because no regulatory demand is visible.
 
@@ -68,7 +68,7 @@ Importantly, symmetry hyperreflection is calibrated to plausibility rather than 
 
 The resilience of symmetry hyperreflection varies across stabilization strategies. In PM-OCAC, it is comparatively robust because it protects access rather than epistemic coherence. Narrative-based hyperreflections must maintain internal consistency across time and are therefore brittle under contradiction. PM-OCAC hyperreflection needs only to remain cost-neutral long enough for capture to occur. Once fixation is installed, symmetry becomes unnecessary and, in fact, dangerous.
 
-Symmetry hyperreflection is therefore strictly pre-fixation or peri-fixation. It is recruited when the object is not yet captured or when capture has degraded and must be repaired. It is not required once ambiguity stasis is achieved and a stable completion surface is available. Post-capture, continued symmetry would reintroduce ambiguity by implying equality, reciprocity, or future obligation—conditions incompatible with frozen hierarchy.
+Symmetry hyperreflection is therefore strictly pre-fixation or peri-fixation. It is recruited when the object is not yet captured or when capture has degraded and must be repaired. It is not required once ambiguity stasis is achieved and a stable completion surface is available. Post-capture, continued symmetry would reintroduce ambiguity by implying equality, reciprocity, or future obligation - conditions incompatible with frozen hierarchy.
 
 This distinction clarifies why dense reciprocal engagement, continuous messaging, or overt mutual pursuit often undermines mythologization rather than strengthening it. When the interaction surface itself becomes a primary site of regulation, symmetry ceases to be simulated and becomes real. The object no longer appears elevated; it appears ordinary. Capture fails not due to rejection, but due to over-successful symmetry.
 
@@ -177,12 +177,12 @@ This reframing resolves why PM-OCAC dynamics resemble romance while remaining st
 
 The destabilizing event in upward asymmetry stabilization is not loss, rejection, or abandonment. It is reciprocity.
 
-Symmetry actions by the object—expressions of interest, curiosity, or equivalence—introduce a narrative contradiction:
+Symmetry actions by the object such as expressions of interest, curiosity, or equivalence introduce a narrative contradiction:
 Why would a high-value object desire someone like me?
 
 This question cannot be resolved without collapsing either the object’s altitude or the self’s coherence. There is no stable interpretive frame in which symmetry preserves regulation.
 
-This produces not paranoia in the classical sense, but ontological disturbance. The system does not suspect harm; it confronts impossibility. The resulting affect is mortification, disgust, or abrupt revulsion—not toward the object, but toward the implication of equality.
+This produces not paranoia in the classical sense, but ontological disturbance. The system does not suspect harm; it confronts impossibility. The resulting affect is mortification, disgust, or abrupt revulsion - not toward the object, but toward the implication of equality.
 
 ### Ghosting as Excision, Not Avoidance
 
@@ -208,7 +208,7 @@ When fixation reconstruction succeeds, relational output resumes abruptly, often
 
 Upward asymmetry stabilization admits two subtypes.
 
-In feedback-dependent configurations, the object is real and accessible. Regulation requires discrete anchoring events—acknowledgment, proximity, recognition—to maintain stability. These systems are inherently unstable, as symmetry is always possible.
+In feedback-dependent configurations, the object is real and accessible. Regulation requires discrete anchoring events (acknowledgment, proximity, recognition) to maintain stability. These systems are inherently unstable, as symmetry is always possible.
 
 In feedback-independent configurations, the object cannot reciprocate. Literary figures, historical icons, fictional characters, or unreachable ideals provide maximal stability. Because symmetry is impossible in principle, ambiguity remains permanently captured. Regulation completes without contact, polling, or defensive excision.
 
@@ -218,13 +218,13 @@ These are the most efficient and durable forms of the strategy.
 
 Fixation collapses ambiguity, but it does not by itself terminate regulatory load. Termination requires a surface onto which regulation can complete. These are referred to here as regulatory completion surfaces.
 
-A completion surface is not defined by content—romantic, creative, sexual, symbolic—but by function. A surface qualifies as a regulatory completion surface if it satisfies four conditions:
+A completion surface is not defined by content, whether it be romantic, creative, sexual, or symbolic, but by function. A surface qualifies as a regulatory completion surface if it satisfies four conditions:
 -	Asymmetry tolerance: the surface can absorb inferiority signaling without demanding reciprocity, correction, or symmetry.
 -	Termination capacity: engagement with the surface reduces net regulatory load rather than redistributing it.
 -	Predictable cost structure: the energetic and exposure costs of engagement are stable and legible to the system.
 -	Optional feedback topology: the surface may be feedback-coupled (allowing micro-gap correction) or feedback-independent (requiring repetition rather than interaction).
 
-Completion surfaces are orthogonal to fixation type. The same fixation—such as value fixation—may complete through different surfaces depending on availability, cost, and state-transition routing. Human mythologized objects represent one high-capacity, high-cost surface. Competence domains, symbolic systems, ritual repetition, parasocial figures, and functional roles represent alternative surfaces with different cost and durability profiles.
+Completion surfaces are orthogonal to fixation type. The same fixation (such as value fixation) may complete through different surfaces depending on availability, cost, and state-transition routing. Human mythologized objects represent one high-capacity, high-cost surface. Competence domains, symbolic systems, ritual repetition, parasocial figures, and functional roles represent alternative surfaces with different cost and durability profiles.
 
 Fixation determines what asymmetry is frozen. Completion surfaces determine where regulation ends.
 
@@ -255,7 +255,7 @@ Observable intensity therefore appears when:
 
 Intensity is not attachment expression. It is regulatory labor.
 
-As capture stabilizes, symmetry hyperreflection relaxes and intensity subsides. The return to quiet does not signal loss of interest; it signals restoration of completion. This inversion—intensity as work, quiet as success—is central to understanding PM-OCAC dynamics.
+As capture stabilizes, symmetry hyperreflection relaxes and intensity subsides. The return to quiet does not signal loss of interest; it signals restoration of completion. This inversion - intensity as work, quiet as success - is central to understanding PM-OCAC dynamics.
 
 ### Intra-Dyadic Polling and Action-Based Permission
 
@@ -268,7 +268,7 @@ Relational labels may be destabilizing in this configuration because they introd
 -	representational obligations,
 -	third-party interpretive pressure.
 
-These raise cost without increasing completion capacity. Actions—availability, consistency, tolerance under load—remain the only meaningful signals.
+These raise cost without increasing completion capacity. Actions (e.g. availability, consistency, tolerance under load) remain the only meaningful signals.
 
 ### Consummation as a Conditional Competence Domain
 
