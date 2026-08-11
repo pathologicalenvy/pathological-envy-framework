@@ -6,13 +6,13 @@ The preceding chapters describe distinct post-collapse configurations: borderlin
 
 This interpretation is incorrect.
 
-There is one pathological envy cycle. It does not branch. What diverges after collapse is not the cycle itself, but the regulatory mechanics that remain viable once internal correction fails. These mechanics are selected not by preference, learning, or motive, but by pre-existing State-Transition Director (STD) architecture—the structural constraints that determine which forms of feedback are intolerable and which forms of externalization are feasible.
+There is one pathological envy cycle. It does not branch. What diverges after collapse is not the cycle itself, but the regulatory mechanics that remain viable once internal correction fails. These mechanics are selected not by preference, learning, or motive, but by pre-existing State-Transition Director (STD) architecture - the structural constraints that determine which forms of feedback are intolerable and which forms of externalization are feasible.
 
 This chapter formalizes that claim and resolves a common source of confusion: how mutually exclusive stabilizations can coexist with extensive state multiplexing.
 
 ### Why the Envy Cycle Does Not Branch
 
-Across all configurations described in Part IV, the initiating sequence is identical. Salient comparison activates inferiority signaling. Internal regulation attempts to metabolize discrepancy under exposure. When correction cannot complete—because scaling is insufficient, feedback is uncontainable, or ambiguity persists—the system reaches a collapse boundary.
+Across all configurations described in Part IV, the initiating sequence is identical. Salient comparison activates inferiority signaling. Internal regulation attempts to metabolize discrepancy under exposure. When correction cannot complete because scaling is insufficient, or feedback is uncontainable, or ambiguity persists, the system reaches a collapse boundary.
 
 That boundary is invariant.
 
@@ -22,7 +22,7 @@ The envy cycle therefore does not branch. It terminates. What follows is reorgan
 
 ### Collapse Reveals Architecture; It Does Not Create It
 
-A critical error in many accounts is to treat collapse as formative—to assume that systems become narrative, avoidant, or power-oriented as a result of failure. In this framework, collapse is not generative. It is diagnostic.
+A critical error in many accounts is to treat collapse as formative - to assume that systems become narrative, avoidant, or power-oriented as a result of failure. In this framework, collapse is not generative. It is diagnostic.
 
 STD architecture precedes collapse. Long before the failure point, systems differ in:
 -	tolerance for ambiguity,
@@ -52,7 +52,7 @@ These are not preferences. They are intolerance-driven selections. Each stabiliz
 
 Only one stabilization strategy can function as the system’s dominant, cost-minimizing baseline at a time.
 
-This is not because other strategies are inaccessible, but because co-dominance is unstable. Ambiguity elimination and constraint elimination impose incompatible cost functions. A system cannot simultaneously depend on certainty and on leverage without reintroducing internal routing conflict. When such conflict persists, consolidation fails—producing oscillation rather than stabilization.
+This is not because other strategies are inaccessible, but because co-dominance is unstable. Ambiguity elimination and constraint elimination impose incompatible cost functions. A system cannot simultaneously depend on certainty and on leverage without reintroducing internal routing conflict. When such conflict persists, consolidation fails - producing oscillation rather than stabilization.
 
 This is why borderline organization remains junctional. No single intolerance-compatible lock can consolidate. Routing remains open. Regulatory cost repeatedly returns.
 
