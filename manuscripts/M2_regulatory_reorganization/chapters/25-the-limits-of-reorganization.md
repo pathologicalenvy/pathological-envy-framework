@@ -32,7 +32,7 @@ In rare cases, collapse does not precipitate immediate emergency reorganization,
 
 Access to this boundary is not random. It is gated.
 
-Deliberative terminal reorganizations are accessible only under conditions of low error intolerance (low EI)—that is, unusually high tolerance for unresolved discrepancy without reflexive discharge or rapid corrective action. Where error intolerance is high, discrepancy escalates urgency and forces immediate reorganization through affective, behavioral, or symbolic routes. Under such conditions, deliberation is structurally impossible.
+Deliberative terminal reorganizations are accessible only under conditions of low error intolerance (low EI) - that is, unusually high tolerance for unresolved discrepancy without reflexive discharge or rapid corrective action. Where error intolerance is high, discrepancy escalates urgency and forces immediate reorganization through affective, behavioral, or symbolic routes. Under such conditions, deliberation is structurally impossible.
 
 Low EI permits delay.
 
@@ -42,7 +42,7 @@ Such outcomes are best understood as deliberative terminal reorganizations.
 
 Unlike canonical post-collapse configurations, deliberative terminal reorganizations do not emerge automatically in response to mortification or exposure. They require time, planning, and sustained coherence under load. Their defining feature is irreversibility by design. Rather than redistributing regulatory burden, they foreclose the recurrence of a particular failure by eliminating the structure to which that failure remains bound.
 
-One form this may take is irreversible discontinuity with the prior self-object through somatic alteration. In these instances, the system preserves external coherence and reality testing by rendering the shame-bearing identity unrecoverable. Regulation is achieved not by repair, substitution, or symbolic integration, but by permanent exclusion of the referent that anchors annihilating load. Once accomplished, regulatory cycling typically ceases—not because the underlying conflict has been resolved, but because the prior configuration cannot be reinstated.
+One form this may take is irreversible discontinuity with the prior self-object through somatic alteration. In these instances, the system preserves external coherence and reality testing by rendering the shame-bearing identity unrecoverable. Regulation is achieved not by repair, substitution, or symbolic integration, but by permanent exclusion of the referent that anchors annihilating load. Once accomplished, regulatory cycling typically ceases; not because the underlying conflict has been resolved, but because the prior configuration cannot be reinstated.
 
 At the outermost boundary, deliberative terminal reorganization may take the form of existential termination, wherein the system concludes that no survivable reconfiguration of the self remains viable. This outcome is structurally distinct from impulsive or affect-driven collapse and cannot be understood as an extension of reorganization logic. It represents not stabilization, but the termination of the system whose regulation is at issue.
 
