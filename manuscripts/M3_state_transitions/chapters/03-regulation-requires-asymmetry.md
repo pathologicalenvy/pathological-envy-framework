@@ -14,7 +14,7 @@ In symmetric systems, feedback returns. Responses are matched. Uncertainty is co
 
 Asymmetry removes this requirement.
 
-When one system holds disproportionate leverage—through power, dependency, silence, ambiguity, or control over access—feedback no longer returns in equal measure. Regulation can move outward without being reflected back. The originating system stabilizes. The receiving system absorbs the load.
+When one system holds disproportionate leverage through power, dependency, silence, ambiguity, or control over access, feedback no longer returns in equal measure. Regulation can move outward without being reflected back. The originating system stabilizes. The receiving system absorbs the load.
 
 Asymmetry does not need to be explicit. It does not require authority, hierarchy, or dominance in the overt sense. It is sufficient that one system can act without immediate consequence while the other cannot. Delay, non-response, or neutrality can be enough.
 
@@ -30,7 +30,7 @@ Instead, regulatory pressure appears where return is delayed or blocked.
 
 This is also why restoring symmetry has disruptive effects.
 
-When symmetry is introduced—through naming, boundary enforcement, role change, or loss of leverage—externalized regulation can no longer complete. Feedback re-enters the originating system. The stability that depended on export is threatened. The system must either reconfigure, escalate, or collapse.
+When symmetry is introduced - through naming, boundary enforcement, role change, or loss of leverage - externalized regulation can no longer complete. Feedback re-enters the originating system. The stability that depended on export is threatened. The system must either reconfigure, escalate, or collapse.
 
 This reaction is often misinterpreted as defensiveness, hostility, or retaliation. Structurally, it is loss of regulatory capacity.
 
