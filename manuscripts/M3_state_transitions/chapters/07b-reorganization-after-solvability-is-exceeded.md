@@ -6,7 +6,7 @@ This chapter does not introduce new mechanisms. It identifies what becomes struc
 
 ### From Correction to Reorganization
 
-Up to this point, instability has been described in terms of regulatory strain: escalating effort, narrowing tolerance, increased reliance on asymmetry, and progressive externalization. These processes operate so long as internal correction remains feasible. When correction fails—because discrepancy exceeds capacity, because scaling cannot occur, or because ambiguity cannot be tolerated—the system must reorganize or collapse.
+Up to this point, instability has been described in terms of regulatory strain: escalating effort, narrowing tolerance, increased reliance on asymmetry, and progressive externalization. These processes operate so long as internal correction remains feasible. When correction fails because discrepancy exceeds capacity, or because scaling cannot occur, or because ambiguity cannot be tolerated, the system must reorganize or collapse.
 
 Reorganization is not deterioration. It is a structural solution to an unsolvable constraint. The system preserves continuity by altering the way reality is bound, rather than by altering itself to meet reality. Stability is restored, but the cost is borne elsewhere: in coherence, in reciprocity, or in shared reference.
 
@@ -22,7 +22,7 @@ What unites these outcomes is not content, intensity, or duration, but function:
 
 ### Psychosis Hook Points
 
-Reorganization does not occur arbitrarily. It becomes viable only at specific structural boundaries—points at which ordinary regulation can no longer succeed.
+Reorganization does not occur arbitrarily. It becomes viable only at specific structural boundaries: points at which ordinary regulation can no longer succeed.
 
 These boundaries include:
 **Narrative lock boundaries**, where ambiguity threatens coherence and certainty is imposed to eliminate error.
@@ -40,7 +40,7 @@ At a psychosis hook point, the form reorganization takes is not interpretive or 
 **Coercive Capacity (CC)**: the ability to externalize regulation into the environment.
 **Mortification State**: whether the boundary of solvability has been crossed.
 
-Localization of Regulation: where stability is ultimately restored—internally, externally, or nowhere.
+Localization of Regulation: where stability is ultimately restored; internally, externally, or nowhere.
 
 No additional variables are required at this level of abstraction. Differences in biology, history, or circumstance alter load and timing, but not routing.
 
@@ -63,7 +63,7 @@ In dynamical terms, this selection can be understood as a basin transition: once
 The framework permits multiple reorganization outcomes, each restoring stability in a distinct way. These include configurations that stabilize through certainty, through internal reconstruction, through collapse under load, through persistent non-convergence, through external enactment, or through private over-integration.
 Only a subset of these arise directly from the envy cycle. Others reflect different constraint geometries that share the same invariant: loss or modification of shared-reality binding.
 
-Psychosis is not, in itself, an index of pathology. Systems with intact, flexible, and reciprocal structures may undergo transient psychotic reorganization when internal capacity is temporarily exceeded. In such cases, reorganization remains internally localized, resolves as solvability returns, and does not require the creation of a bad object or the displacement of regulation into others. Structural severity is therefore not determined by the presence, intensity, or phenomenology of psychosis, but by its function and persistence. Psychosis becomes severe only when it stabilizes by externalizing cost—when coherence is preserved through certainty, coercion, or object degradation rather than recovery. Pathology, in this framework, is defined not by breakdown, but by the necessity of making other systems absorb the cost of one’s stability.
+Psychosis is not, in itself, an index of pathology. Systems with intact, flexible, and reciprocal structures may undergo transient psychotic reorganization when internal capacity is temporarily exceeded. In such cases, reorganization remains internally localized, resolves as solvability returns, and does not require the creation of a bad object or the displacement of regulation into others. Structural severity is therefore not determined by the presence, intensity, or phenomenology of psychosis, but by its function and persistence. Psychosis becomes severe only when it stabilizes by externalizing cost: when coherence is preserved through certainty, coercion, or object degradation rather than recovery. Pathology, in this framework, is defined not by breakdown, but by the necessity of making other systems absorb the cost of one’s stability.
 
 Reorganization stabilizes the system internally, but it does not resolve regulation. Regulation is conserved. What cannot be processed internally must occur elsewhere.
 
