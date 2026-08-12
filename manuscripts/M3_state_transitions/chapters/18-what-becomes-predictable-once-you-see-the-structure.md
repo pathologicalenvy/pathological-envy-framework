@@ -26,7 +26,7 @@ Externalization may also be distributed rather than compounded. Some systems mai
 
 Loss does not consolidate uniformly.
 
-In some configurations, loss stabilizes as grievance. In others, it does not. The divergence depends on the availability of narrative closure. Where responsibility can be localized—through explicit rejection, interpretable disrespect, reciprocal confrontation, or confirmatory feedback—loss is converted into grievance.
+In some configurations, loss stabilizes as grievance. In others, it does not. The divergence depends on the availability of narrative closure. Where responsibility can be localized through explicit rejection, interpretable disrespect, reciprocal confrontation, or confirmatory feedback, loss is converted into grievance.
 
 Shame is neutralized through certainty, and the object is downgraded through moral attribution. 
 
