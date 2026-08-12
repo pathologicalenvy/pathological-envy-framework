@@ -4,7 +4,7 @@ Chapter Seven
 
 Control is often imagined as an active force: assertion, domination, persuasion, or coercion. Yet many of the most destabilizing regulatory interventions occur without overt action at all. Silence, distance, and apparent indifference can reorganize relational fields more effectively than confrontation or demand.
 
-This chapter examines how proximity itself becomes a regulatory variable once internal stabilization fails to survive exposure. It shows how asymmetry can be installed ecologically—across systems—without appearing as control, and why absence, rather than engagement, often does the regulatory work.
+This chapter examines how proximity itself becomes a regulatory variable once internal stabilization fails to survive exposure. It shows how asymmetry can be installed ecologically across systems without appearing as control, and why absence, rather than engagement, often does the regulatory work.
 
 What follows explains why certain configurations do not signal attachment, reassurance, or intent during critical phases of interaction, yet reliably induce pursuit, anxiety, and collapse in others. These effects are not incidental. They are the ecological consequences of how proximity and scarcity are managed once asymmetry becomes required.
 
@@ -22,7 +22,7 @@ This distinction matters because it separates relational appearance from regulat
 
 Scarcity is often mistaken for absence or withdrawal. In regulatory terms, scarcity is neither passive nor accidental. It is an intervention at the ecological level.
 
-By limiting availability—whether through silence, delayed response, or controlled access—a system alters where regulatory labor occurs. The work of maintaining connection shifts outward. The other system begins monitoring, interpreting, initiating, and compensating.
+By limiting availability, whether through silence, delayed response, or controlled access, a system alters where regulatory labor occurs. The work of maintaining connection shifts outward. The other system begins monitoring, interpreting, initiating, and compensating.
 
 This shift has predictable effects:
 - increased salience of the absent system
@@ -51,11 +51,11 @@ This convergence creates a diagnostic problem. Observers infer sameness of motiv
 
 What is shared is the deployment: scarcity-based proximity management. What differs is the rationale driving it.
 
-Failing to distinguish these leads to persistent misclassification—particularly between schizoid, narrative, and psychopathic configurations—which share surface features while diverging fundamentally in regulatory logic.
+Failing to distinguish these leads to persistent misclassification (particularly between schizoid, narrative, and psychopathic configurations) which share surface features while diverging fundamentally in regulatory logic.
 
 ### Three Rationales for Scarcity-Based Asymmetry
 
-The same ecological move—scarcity—can arise from different internal conditions. Understanding these distinctions is critical for prediction.
+The same ecological move, scarcity, can arise from different internal conditions. Understanding these distinctions is critical for prediction.
 
 ### Non-Dependence (Schizoid Configuration)
 
@@ -91,7 +91,7 @@ Silence forces interpretation. It amplifies uncertainty. It shifts regulatory bu
 
 This is why scarcity often destabilizes more effectively than hostility. It induces self-generated escalation rather than external conflict.
 
-Systems with low tolerance for uncertainty are particularly vulnerable. They initiate contact, increase effort, and expose dependency—often misattributing their response to concern rather than pressure.
+Systems with low tolerance for uncertainty are particularly vulnerable. They initiate contact, increase effort, and expose dependency - often misattributing their response to concern rather than pressure.
 
 ### When Control Is Mistaken for Indifference
 
