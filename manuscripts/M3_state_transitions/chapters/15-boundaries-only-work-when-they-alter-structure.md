@@ -28,7 +28,7 @@ These reactions are not responses to the boundary itself. They are responses to 
 
 This is why boundaries often provoke conflict even when stated calmly. The conflict is not about the limit. It is about the consequence of the limit.
 
-Emotional boundaries—assertions of feeling, preference, or tolerance—do not alter regulatory flow. They may increase clarity, but they preserve engagement. Engagement sustains externalization. Regulation continues.
+Emotional boundaries (e.g. assertions of feeling, preference, or tolerance) do not alter regulatory flow. They may increase clarity, but they preserve engagement. Engagement sustains externalization. Regulation continues.
 
 Structural boundaries do not require explanation.
 
