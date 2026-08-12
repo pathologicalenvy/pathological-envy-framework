@@ -16,7 +16,7 @@ Several conditions increase selection probability.
 
 First, availability. Systems that remain present, responsive, or invested provide a reliable surface for externalization. Withdrawal increases cost. Presence lowers it.
 
-Second, asymmetry. Where leverage favors the originating system—through role, authority, social standing, or informational control—regulation can move outward without rebound. The scapegoat cannot return cost without penalty.
+Second, asymmetry. Where leverage favors the originating system through role, authority, social standing, or informational control, regulation can move outward without rebound. The scapegoat cannot return cost without penalty.
 
 Third, coherence. Systems that maintain internal order will attempt to correct strain rather than deflect it. They internalize responsibility. This internalization completes regulation efficiently for the originating system.
 
