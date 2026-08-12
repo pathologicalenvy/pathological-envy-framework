@@ -14,7 +14,7 @@ A well-documented example of externalized regulatory integration occurs in certa
 
 Within such a dyad, cycle solvability is preserved across systems rather than within them. The borderline’s repeated return restores object continuity and limits fragmentation, while the narcissistic system’s dominance-based regulation reduces exposure without requiring mutuality. Integration is achieved at the level of the dyad rather than the individual systems, without implying health, mutuality, or repair, allowing regulation to persist through asymmetric coupling rather than internal reorganization.
 
-This illustration is not offered as a relational taxonomy, but as a consequence of the same constraint logic described throughout this chapter. Where internal director alignment fails to converge, stabilization may be externally scaffolded—often asymmetrically and at significant long-term cost.
+This illustration is not offered as a relational taxonomy, but as a consequence of the same constraint logic described throughout this chapter. Where internal director alignment fails to converge, stabilization may be externally scaffolded - often asymmetrically and at significant long-term cost.
 
 This is the shift from psychology to ecology.
 
