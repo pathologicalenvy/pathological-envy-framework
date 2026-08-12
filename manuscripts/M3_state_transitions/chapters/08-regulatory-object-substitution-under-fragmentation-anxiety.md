@@ -36,7 +36,7 @@ Fragmentation anxiety refers to the imminent threat of loss of coherence when re
 
 When fragmentation anxiety crosses a threshold, the system does not deliberate. It routes. Restoration of coherence becomes urgent. Delay increases risk. Regulation seeks the nearest viable surface.
 
-This trigger is invariant. It does not depend on object type, cultural meaning, or conscious appraisal. It is activated by deprivation—the loss of access to a previously stabilizing pathway.
+This trigger is invariant. It does not depend on object type, cultural meaning, or conscious appraisal. It is activated by deprivation: the loss of access to a previously stabilizing pathway.
 
 When access to a regulatory object is removed, fragmentation anxiety intensifies. Internal pathways remain unavailable. The system does not adapt by tolerating the load. It attempts to reconstitute the object.
 
@@ -108,7 +108,7 @@ The distress associated with this state is not proportional to desire for the ob
 
 This applies equally to substances, gambling, structured activities, and interpersonal objects. The difference lies only in visibility.
 
-In its most legible form, this transition appears when access to a regulatory object is rendered non-negotiable over time—such as during enforced abstinence in incarceration—where deprivation cannot be tested, negotiated, or circumvented, and reorganization becomes structurally inevitable.
+In its most legible form, this transition appears when access to a regulatory object is rendered non-negotiable over time (such as during enforced abstinence in incarceration) where deprivation cannot be tested, negotiated, or circumvented, and reorganization becomes structurally inevitable.
 
 Although the regulatory cycle remains invariant, the pathways available for object reconstitution vary with object substitutability. Where regulatory objects are fungible, reconstitution pressure can distribute across a class of functionally equivalent surfaces. Provider absence, access disruption, or local deprivation does not terminate regulation but redirects it horizontally, producing diffusion across suppliers, substitutes, or environments that preserve the same regulatory function.
 
@@ -118,7 +118,7 @@ This divergence reflects constraint geometry rather than a difference in regulat
 
 Once existential viability and access plausibility are satisfied, object reconstitution does not proceed along a single axis of intensity. It enters a qualitatively partitioned state space governed by the configuration of remaining ambiguity gates. These gates do not accumulate additively. They modulate form.
 
-Three ambiguity dimensions—dyadic primacy, status clarity, and temporal openness—determine how reconstitution expresses itself once pursuit becomes possible. Their states define discrete regulatory regimes rather than gradations of the same process. The same regulatory cycle operates in all cases. What differs is the manner in which coherence is temporarily restored, strained, or reorganized under constraint.
+Three ambiguity dimensions - dyadic primacy, status clarity, and temporal openness - determine how reconstitution expresses itself once pursuit becomes possible. Their states define discrete regulatory regimes rather than gradations of the same process. The same regulatory cycle operates in all cases. What differs is the manner in which coherence is temporarily restored, strained, or reorganized under constraint.
 
 Reconstitution therefore admits multiple stable and unstable configurations. Some permit low-arousal maintenance without escalation. Others intensify monitoring, comparison, or control behaviors. Still others accelerate the transition toward grievance, myth, or substitution. These differences do not reflect variation in desire, motivation, or interpersonal meaning. They reflect gate geometry.
 
